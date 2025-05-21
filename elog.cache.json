@@ -1,0 +1,4619 @@
+{
+  "docs": [
+    {
+      "id": 219788197,
+      "doc_id": "amgr8a1msf0znt1c",
+      "updated": 1747327796000,
+      "properties": {
+        "title": "boost::interprocess 进程间通信之消息队列的实现_boost interproce",
+        "date": "2025-05-15 23:55:44",
+        "updated": "2025-05-16 00:49:56"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "amgr8a1msf0znt1c"
+        },
+        {
+          "title": "Boost深度剖析",
+          "doc_id": "amgr8a1msf0znt1c"
+        }
+      ],
+      "realName": "boost!interprocess 进程间通信之消息队列的实现_boost interproce",
+      "relativePath": "\\boost!interprocess 进程间通信之消息队列的实现_boost interproce.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 219311039,
+      "doc_id": "kr7vgd5dy1c4cu4q",
+      "updated": 1747067823000,
+      "properties": {
+        "title": "七大常见的算法思想",
+        "date": "2025-05-13 00:25:57",
+        "updated": "2025-05-13 00:37:03"
+      },
+      "catalog": [
+        {
+          "title": "数据结构与算法",
+          "doc_id": "kr7vgd5dy1c4cu4q"
+        }
+      ],
+      "realName": "七大常见的算法思想",
+      "relativePath": "\\七大常见的算法思想.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 219789407,
+      "doc_id": "kligavzvlnsg341z",
+      "updated": 1747326687000,
+      "properties": {
+        "title": "深度剖析（7）：Boost C++库，《进程间通讯》全维度解析",
+        "date": "2025-05-16 00:29:52",
+        "updated": "2025-05-16 00:31:27"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "kligavzvlnsg341z"
+        },
+        {
+          "title": "Boost深度剖析",
+          "doc_id": "kligavzvlnsg341z"
+        }
+      ],
+      "realName": "深度剖析（7）：Boost C++库，《进程间通讯》全维度解析",
+      "relativePath": "\\深度剖析（7）：Boost C++库，《进程间通讯》全维度解析.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 217564153,
+      "doc_id": "xvl597tyxbip4ddm",
+      "updated": 1747067180000,
+      "properties": {
+        "title": "「C++」掌握C++异步编程-CSDN博客",
+        "date": "2025-04-29 01:49:37",
+        "updated": "2025-05-13 00:26:20"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "xvl597tyxbip4ddm"
+        }
+      ],
+      "realName": "「C++」掌握C++异步编程-CSDN博客",
+      "relativePath": "\\「C++」掌握C++异步编程-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 214462438,
+      "doc_id": "vz6rnfhh9rkmgeq4",
+      "updated": 1744132470000,
+      "properties": {
+        "title": "与boost asio的区别",
+        "date": "2025-04-09 01:13:54",
+        "updated": "2025-04-09 01:14:30"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "vz6rnfhh9rkmgeq4"
+        },
+        {
+          "title": "Muduo库介绍",
+          "doc_id": "vz6rnfhh9rkmgeq4"
+        }
+      ],
+      "realName": "与boost asio的区别",
+      "relativePath": "\\与boost asio的区别.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 217122927,
+      "doc_id": "hfcgb28m188ar0mb",
+      "updated": 1745604630000,
+      "properties": {
+        "title": "现代 c++ ：c++11 ~ c++23 新特性汇总",
+        "date": "2025-04-26 02:09:06",
+        "updated": "2025-04-26 02:10:30"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "hfcgb28m188ar0mb"
+        }
+      ],
+      "realName": "现代 c++ ：c++11 ~ c++23 新特性汇总",
+      "relativePath": "\\现代 c++ ：c++11 ~ c++23 新特性汇总.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 212131591,
+      "doc_id": "gpme99hqgvbyifig",
+      "updated": 1742837711000,
+      "properties": {
+        "title": "boost 中asio的io_context的理解",
+        "date": "2025-03-25 01:30:34",
+        "updated": "2025-03-25 01:35:11"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "gpme99hqgvbyifig"
+        },
+        {
+          "title": "Boost深度剖析",
+          "doc_id": "gpme99hqgvbyifig"
+        }
+      ],
+      "realName": "boost 中asio的io_context的理解",
+      "relativePath": "\\boost 中asio的io_context的理解.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 212130369,
+      "doc_id": "lihq2k5np81dbci6",
+      "updated": 1742835149000,
+      "properties": {
+        "title": "Boost库介绍",
+        "date": "2025-03-25 00:52:17",
+        "updated": "2025-03-25 00:52:29"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "lihq2k5np81dbci6"
+        },
+        {
+          "title": "Boost深度剖析",
+          "doc_id": "lihq2k5np81dbci6"
+        }
+      ],
+      "realName": "Boost库介绍",
+      "relativePath": "\\Boost库介绍.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 212123178,
+      "doc_id": "ll25u4xbsa97uikk",
+      "updated": 1742831527000,
+      "properties": {
+        "title": "RTSP、RTP和RTCP的区别与联系",
+        "date": "2025-03-24 22:58:47",
+        "updated": "2025-03-24 23:52:07"
+      },
+      "catalog": [
+        {
+          "title": "其它",
+          "doc_id": "ll25u4xbsa97uikk"
+        }
+      ],
+      "realName": "RTSP、RTP和RTCP的区别与联系",
+      "relativePath": "\\RTSP、RTP和RTCP的区别与联系.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 209764763,
+      "doc_id": "tymk3l0u7x5hc9gx",
+      "updated": 1741618767000,
+      "properties": {
+        "title": "boost使用CMake和MinGW-w64的编译安装 | CherryHua Blog",
+        "date": "2025-03-10 22:59:26",
+        "updated": "2025-03-10 22:59:27"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "tymk3l0u7x5hc9gx"
+        },
+        {
+          "title": "Boost深度剖析",
+          "doc_id": "tymk3l0u7x5hc9gx"
+        }
+      ],
+      "realName": "boost使用CMake和MinGW-w64的编译安装 ! CherryHua Blog",
+      "relativePath": "\\boost使用CMake和MinGW-w64的编译安装 ! CherryHua Blog.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 212128267,
+      "doc_id": "heixz9y3myegv1oz",
+      "updated": 1742834959000,
+      "properties": {
+        "title": "Muduo库介绍",
+        "date": "2025-03-25 00:09:52",
+        "updated": "2025-03-25 00:49:19"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "heixz9y3myegv1oz"
+        }
+      ],
+      "realName": "Muduo库介绍",
+      "relativePath": "\\Muduo库介绍.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 209455023,
+      "doc_id": "pzb8zcz4c9rclsu4",
+      "updated": 1741457730000,
+      "properties": {
+        "title": "深度剖析（1）：Boost C++ 库，《智能指针》全维度解析",
+        "date": "2025-03-09 02:13:28",
+        "updated": "2025-03-09 02:15:30"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "pzb8zcz4c9rclsu4"
+        },
+        {
+          "title": "Boost深度剖析",
+          "doc_id": "pzb8zcz4c9rclsu4"
+        }
+      ],
+      "realName": "深度剖析（1）：Boost C++ 库，《智能指针》全维度解析",
+      "relativePath": "\\深度剖析（1）：Boost C++ 库，《智能指针》全维度解析.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 209455353,
+      "doc_id": "vqmbv1nrul8qtd26",
+      "updated": 1741458999000,
+      "properties": {
+        "title": "深度剖析（2）：Boost C++库，《函数对象》全维度解析",
+        "date": "2025-03-09 02:36:39",
+        "updated": "2025-03-09 02:36:39"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "vqmbv1nrul8qtd26"
+        },
+        {
+          "title": "Boost深度剖析",
+          "doc_id": "vqmbv1nrul8qtd26"
+        }
+      ],
+      "realName": "深度剖析（2）：Boost C++库，《函数对象》全维度解析",
+      "relativePath": "\\深度剖析（2）：Boost C++库，《函数对象》全维度解析.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 209383117,
+      "doc_id": "cd9lzbzoofdyokzt",
+      "updated": 1741419106000,
+      "properties": {
+        "title": "STL常见容器",
+        "date": "2025-03-08 13:50:22",
+        "updated": "2025-03-08 15:31:46"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "cd9lzbzoofdyokzt"
+        },
+        {
+          "title": "基础语法",
+          "doc_id": "cd9lzbzoofdyokzt"
+        }
+      ],
+      "realName": "STL常见容器",
+      "relativePath": "\\STL常见容器.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 207806575,
+      "doc_id": "ksagrtuy36tym8xa",
+      "updated": 1740591019000,
+      "properties": {
+        "title": "并发编程实践：带你用C++20手写一个自己的线程池！",
+        "date": "2025-02-27 01:28:31",
+        "updated": "2025-02-27 01:30:19"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "ksagrtuy36tym8xa"
+        },
+        {
+          "title": "C++ 并发编程",
+          "doc_id": "ksagrtuy36tym8xa"
+        }
+      ],
+      "realName": "并发编程实践：带你用C++20手写一个自己的线程池！",
+      "relativePath": "\\并发编程实践：带你用C++20手写一个自己的线程池！.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 209381691,
+      "doc_id": "nvaieghr1reiu659",
+      "updated": 1741412362000,
+      "properties": {
+        "title": "成员函数重写是否virtual的区别",
+        "date": "2025-03-08 13:33:43",
+        "updated": "2025-03-08 13:39:22"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "nvaieghr1reiu659"
+        },
+        {
+          "title": "基础语法",
+          "doc_id": "nvaieghr1reiu659"
+        }
+      ],
+      "realName": "成员函数重写是否virtual的区别",
+      "relativePath": "\\成员函数重写是否virtual的区别.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201372358,
+      "doc_id": "huxnt3flcgird5tg",
+      "updated": 1739809603000,
+      "properties": {
+        "title": "2. 简单工厂模式",
+        "date": "2025-01-05 15:37:42",
+        "updated": "2025-02-18 00:26:43"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "huxnt3flcgird5tg"
+        },
+        {
+          "title": "1. 创建型模式",
+          "doc_id": "huxnt3flcgird5tg"
+        }
+      ],
+      "realName": "2. 简单工厂模式",
+      "relativePath": "\\2. 简单工厂模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 206855642,
+      "doc_id": "lfyef212f279v8xv",
+      "updated": 1741411664000,
+      "properties": {
+        "title": "虚函数表和虚函数在内存中的位置",
+        "date": "2025-02-20 23:11:41",
+        "updated": "2025-03-08 13:27:44"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "lfyef212f279v8xv"
+        },
+        {
+          "title": "基础语法",
+          "doc_id": "lfyef212f279v8xv"
+        }
+      ],
+      "realName": "虚函数表和虚函数在内存中的位置",
+      "relativePath": "\\虚函数表和虚函数在内存中的位置.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 207806416,
+      "doc_id": "sa465irtyuyb5k8g",
+      "updated": 1740590511000,
+      "properties": {
+        "title": "这些C++工程师面试题你都会了吗？",
+        "date": "2025-02-27 01:21:50",
+        "updated": "2025-02-27 01:21:51"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "sa465irtyuyb5k8g"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "sa465irtyuyb5k8g"
+        }
+      ],
+      "realName": "这些C++工程师面试题你都会了吗？",
+      "relativePath": "\\这些C++工程师面试题你都会了吗？.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 206318068,
+      "doc_id": "bab2awgg283lhhp0",
+      "updated": 1739801059000,
+      "properties": {
+        "title": "C++基础面试题 | C++中static的作用？",
+        "date": "2025-02-17 22:04:18",
+        "updated": "2025-02-17 22:04:19"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "bab2awgg283lhhp0"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "bab2awgg283lhhp0"
+        }
+      ],
+      "realName": "C++基础面试题 ! C++中static的作用？",
+      "relativePath": "\\C++基础面试题 ! C++中static的作用？.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 206318029,
+      "doc_id": "uetcdrqz72l4f66x",
+      "updated": 1739801039000,
+      "properties": {
+        "title": "C++基础面试题 | C++中const的作用？",
+        "date": "2025-02-17 22:03:58",
+        "updated": "2025-02-17 22:03:59"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "uetcdrqz72l4f66x"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "uetcdrqz72l4f66x"
+        }
+      ],
+      "realName": "C++基础面试题 ! C++中const的作用？",
+      "relativePath": "\\C++基础面试题 ! C++中const的作用？.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 206141869,
+      "doc_id": "qxdw93sshnbrnrrd",
+      "updated": 1741412384000,
+      "properties": {
+        "title": "四种强制转换类型",
+        "date": "2025-02-16 21:04:07",
+        "updated": "2025-03-08 13:39:44"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "qxdw93sshnbrnrrd"
+        },
+        {
+          "title": "基础语法",
+          "doc_id": "qxdw93sshnbrnrrd"
+        }
+      ],
+      "realName": "四种强制转换类型",
+      "relativePath": "\\四种强制转换类型.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 205058553,
+      "doc_id": "mw2dxyq7gglw85gb",
+      "updated": 1739034909000,
+      "properties": {
+        "title": "80万年薪C++岗位，掌握STL和你是否一样",
+        "date": "2025-02-09 00:58:41",
+        "updated": "2025-02-09 01:15:09"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "mw2dxyq7gglw85gb"
+        },
+        {
+          "title": "基础知识",
+          "doc_id": "mw2dxyq7gglw85gb"
+        }
+      ],
+      "realName": "80万年薪C++岗位，掌握STL和你是否一样",
+      "relativePath": "\\80万年薪C++岗位，掌握STL和你是否一样.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 205464165,
+      "doc_id": "wyk9hantvizoqe0e",
+      "updated": 1739287254000,
+      "properties": {
+        "title": "2小时快速掌握面试跳槽技术栈，C++算法常见50道面试题必会",
+        "date": "2025-02-11 21:57:56",
+        "updated": "2025-02-11 23:20:54"
+      },
+      "catalog": [
+        {
+          "title": "数据结构与算法",
+          "doc_id": "wyk9hantvizoqe0e"
+        }
+      ],
+      "realName": "2小时快速掌握面试跳槽技术栈，C++算法常见50道面试题必会",
+      "relativePath": "\\2小时快速掌握面试跳槽技术栈，C++算法常见50道面试题必会.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 206142115,
+      "doc_id": "yui4guipzzgo50h7",
+      "updated": 1739711130000,
+      "properties": {
+        "title": "【C/C++】 秋招常考面试题最全总结（让你有一种相见恨晚的感觉）_c++面试题 由浅及深-CSDN博客",
+        "date": "2025-02-16 21:05:29",
+        "updated": "2025-02-16 21:05:30"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "yui4guipzzgo50h7"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "yui4guipzzgo50h7"
+        }
+      ],
+      "realName": "【C!C++】 秋招常考面试题最全总结（让你有一种相见恨晚的感觉）_c++面试题 由浅及深-CSDN博客",
+      "relativePath": "\\【C!C++】 秋招常考面试题最全总结（让你有一种相见恨晚的感觉）_c++面试题 由浅及深-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202748721,
+      "doc_id": "ynbc4zw2lcn6qapg",
+      "updated": 1738946765000,
+      "properties": {
+        "title": "图解C++对象模型《对象内存布局详解》",
+        "date": "2025-01-15 21:56:10",
+        "updated": "2025-02-08 00:46:05"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "ynbc4zw2lcn6qapg"
+        }
+      ],
+      "realName": "图解C++对象模型《对象内存布局详解》",
+      "relativePath": "\\图解C++对象模型《对象内存布局详解》.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 204979633,
+      "doc_id": "gv1l7vuwe4m8ipk6",
+      "updated": 1738992666000,
+      "properties": {
+        "title": "2025年春招大厂面试官，C++必问55道面试题",
+        "date": "2025-02-08 13:31:05",
+        "updated": "2025-02-08 13:31:06"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "gv1l7vuwe4m8ipk6"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "gv1l7vuwe4m8ipk6"
+        }
+      ],
+      "realName": "2025年春招大厂面试官，C++必问55道面试题",
+      "relativePath": "\\2025年春招大厂面试官，C++必问55道面试题.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 204978937,
+      "doc_id": "gkyp4x5n5dakfrsi",
+      "updated": 1738992129000,
+      "properties": {
+        "title": "面试官爱问，命中率最高，100道C++面试题，全面总结分析",
+        "date": "2025-02-08 13:22:08",
+        "updated": "2025-02-08 13:22:09"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "gkyp4x5n5dakfrsi"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "gkyp4x5n5dakfrsi"
+        }
+      ],
+      "realName": "面试官爱问，命中率最高，100道C++面试题，全面总结分析",
+      "relativePath": "\\面试官爱问，命中率最高，100道C++面试题，全面总结分析.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 203162680,
+      "doc_id": "rn6n413wcy1q5t5k",
+      "updated": 1737280695000,
+      "properties": {
+        "title": "高性能网络编程之 Reactor 网络模型",
+        "date": "2025-01-19 17:02:10",
+        "updated": "2025-01-19 17:58:15"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "rn6n413wcy1q5t5k"
+        },
+        {
+          "title": "IO多路复用",
+          "doc_id": "rn6n413wcy1q5t5k"
+        }
+      ],
+      "realName": "高性能网络编程之 Reactor 网络模型",
+      "relativePath": "\\高性能网络编程之 Reactor 网络模型.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 203148694,
+      "doc_id": "kvuy8uken3eaieub",
+      "updated": 1737262622000,
+      "properties": {
+        "title": "异步线程池(基于C++11实现) | 爱编程的大丙",
+        "date": "2025-01-19 12:55:37",
+        "updated": "2025-01-19 12:57:02"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "kvuy8uken3eaieub"
+        },
+        {
+          "title": "C++ 并发编程",
+          "doc_id": "kvuy8uken3eaieub"
+        }
+      ],
+      "realName": "异步线程池(基于C++11实现) ! 爱编程的大丙",
+      "relativePath": "\\异步线程池(基于C++11实现) ! 爱编程的大丙.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202996293,
+      "doc_id": "qter0toyhewatumc",
+      "updated": 1743131392000,
+      "properties": {
+        "title": "模版代码",
+        "date": "2025-01-17 19:51:59",
+        "updated": "2025-03-28 11:09:52"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "qter0toyhewatumc"
+        },
+        {
+          "title": "1. 创建型模式",
+          "doc_id": "qter0toyhewatumc"
+        },
+        {
+          "title": "1. 单例模式",
+          "doc_id": "qter0toyhewatumc"
+        }
+      ],
+      "realName": "模版代码",
+      "relativePath": "\\模版代码.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 203548865,
+      "doc_id": "ffi1ggclwtyk2ho4",
+      "updated": 1737552611000,
+      "properties": {
+        "title": "一文搞懂epoll：高效I/O多路复用的核心技术",
+        "date": "2025-01-22 21:30:10",
+        "updated": "2025-01-22 21:30:11"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "ffi1ggclwtyk2ho4"
+        },
+        {
+          "title": "IO多路复用",
+          "doc_id": "ffi1ggclwtyk2ho4"
+        }
+      ],
+      "realName": "一文搞懂epoll：高效I!O多路复用的核心技术",
+      "relativePath": "\\一文搞懂epoll：高效I!O多路复用的核心技术.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202194045,
+      "doc_id": "gn27wisn785wtr9h",
+      "updated": 1737110322000,
+      "properties": {
+        "title": "当内核收到了一个网络包，它该怎么办？",
+        "date": "2025-01-11 13:45:50",
+        "updated": "2025-01-17 18:38:42"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "gn27wisn785wtr9h"
+        }
+      ],
+      "realName": "当内核收到了一个网络包，它该怎么办？",
+      "relativePath": "\\当内核收到了一个网络包，它该怎么办？.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201374639,
+      "doc_id": "ag0nm1vfa7m1478a",
+      "updated": 1736854013000,
+      "properties": {
+        "title": "10. 访问者模式",
+        "date": "2025-01-05 16:06:40",
+        "updated": "2025-01-14 19:26:53"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "ag0nm1vfa7m1478a"
+        },
+        {
+          "title": "3. 行为模式",
+          "doc_id": "ag0nm1vfa7m1478a"
+        }
+      ],
+      "realName": "10. 访问者模式",
+      "relativePath": "\\10. 访问者模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202748807,
+      "doc_id": "rqpumbctp4knus9i",
+      "updated": 1736950507000,
+      "properties": {
+        "title": "线程池",
+        "date": "2025-01-15 21:57:27",
+        "updated": "2025-01-15 22:15:07"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "rqpumbctp4knus9i"
+        }
+      ],
+      "realName": "线程池",
+      "relativePath": "\\线程池.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201373725,
+      "doc_id": "cvzi1d73cn50csrd",
+      "updated": 1736853726000,
+      "properties": {
+        "title": "3. 组合模式",
+        "date": "2025-01-05 15:55:38",
+        "updated": "2025-01-14 19:22:06"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "cvzi1d73cn50csrd"
+        },
+        {
+          "title": "2. 结构型模式",
+          "doc_id": "cvzi1d73cn50csrd"
+        }
+      ],
+      "realName": "3. 组合模式",
+      "relativePath": "\\3. 组合模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201373825,
+      "doc_id": "vggn294dmzwzwf41",
+      "updated": 1736853778000,
+      "properties": {
+        "title": "2. 桥接模式",
+        "date": "2025-01-05 15:56:58",
+        "updated": "2025-01-14 19:22:58"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "vggn294dmzwzwf41"
+        },
+        {
+          "title": "2. 结构型模式",
+          "doc_id": "vggn294dmzwzwf41"
+        }
+      ],
+      "realName": "2. 桥接模式",
+      "relativePath": "\\2. 桥接模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201374474,
+      "doc_id": "uu5bnr0gis16upk2",
+      "updated": 1736853581000,
+      "properties": {
+        "title": "8. 状态模式",
+        "date": "2025-01-05 16:04:45",
+        "updated": "2025-01-14 19:19:41"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "uu5bnr0gis16upk2"
+        },
+        {
+          "title": "3. 行为模式",
+          "doc_id": "uu5bnr0gis16upk2"
+        }
+      ],
+      "realName": "8. 状态模式",
+      "relativePath": "\\8. 状态模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201374297,
+      "doc_id": "cz7e44qxwqzuqu8t",
+      "updated": 1736853456000,
+      "properties": {
+        "title": "6. 观察者模式",
+        "date": "2025-01-05 16:02:47",
+        "updated": "2025-01-14 19:17:36"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "cz7e44qxwqzuqu8t"
+        },
+        {
+          "title": "3. 行为模式",
+          "doc_id": "cz7e44qxwqzuqu8t"
+        }
+      ],
+      "realName": "6. 观察者模式",
+      "relativePath": "\\6. 观察者模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201374377,
+      "doc_id": "roq7nvhyu5dbpnda",
+      "updated": 1736853550000,
+      "properties": {
+        "title": "7. 策略模式",
+        "date": "2025-01-05 16:03:42",
+        "updated": "2025-01-14 19:19:10"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "roq7nvhyu5dbpnda"
+        },
+        {
+          "title": "3. 行为模式",
+          "doc_id": "roq7nvhyu5dbpnda"
+        }
+      ],
+      "realName": "7. 策略模式",
+      "relativePath": "\\7. 策略模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201374262,
+      "doc_id": "zz5u98oh9urgzara",
+      "updated": 1736853386000,
+      "properties": {
+        "title": "5. 备忘录模式",
+        "date": "2025-01-05 16:02:18",
+        "updated": "2025-01-14 19:16:26"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "zz5u98oh9urgzara"
+        },
+        {
+          "title": "3. 行为模式",
+          "doc_id": "zz5u98oh9urgzara"
+        }
+      ],
+      "realName": "5. 备忘录模式",
+      "relativePath": "\\5. 备忘录模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201374138,
+      "doc_id": "hk8sh1gxwauqbula",
+      "updated": 1736853315000,
+      "properties": {
+        "title": "4. 中介者模式",
+        "date": "2025-01-05 16:00:53",
+        "updated": "2025-01-14 19:15:15"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "hk8sh1gxwauqbula"
+        },
+        {
+          "title": "3. 行为模式",
+          "doc_id": "hk8sh1gxwauqbula"
+        }
+      ],
+      "realName": "4. 中介者模式",
+      "relativePath": "\\4. 中介者模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201374106,
+      "doc_id": "oa49qoxeuvq3tguu",
+      "updated": 1736853184000,
+      "properties": {
+        "title": "3. 迭代器模式",
+        "date": "2025-01-05 16:00:30",
+        "updated": "2025-01-14 19:13:04"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "oa49qoxeuvq3tguu"
+        },
+        {
+          "title": "3. 行为模式",
+          "doc_id": "oa49qoxeuvq3tguu"
+        }
+      ],
+      "realName": "3. 迭代器模式",
+      "relativePath": "\\3. 迭代器模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201374081,
+      "doc_id": "mktwtlolagu5c38i",
+      "updated": 1736853137000,
+      "properties": {
+        "title": "2. 命令模式",
+        "date": "2025-01-05 16:00:10",
+        "updated": "2025-01-14 19:12:17"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "mktwtlolagu5c38i"
+        },
+        {
+          "title": "3. 行为模式",
+          "doc_id": "mktwtlolagu5c38i"
+        }
+      ],
+      "realName": "2. 命令模式",
+      "relativePath": "\\2. 命令模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202218286,
+      "doc_id": "shky0gzoqu15ylgc",
+      "updated": 1736590978000,
+      "properties": {
+        "title": "高级 C++ 开发综合岗面试题，能挑战否？",
+        "date": "2025-01-11 18:22:57",
+        "updated": "2025-01-11 18:22:58"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "shky0gzoqu15ylgc"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "shky0gzoqu15ylgc"
+        }
+      ],
+      "realName": "高级 C++ 开发综合岗面试题，能挑战否？",
+      "relativePath": "\\高级 C++ 开发综合岗面试题，能挑战否？.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202218041,
+      "doc_id": "hb2w1yrqehasbu3q",
+      "updated": 1736590845000,
+      "properties": {
+        "title": "GDB 调试程序主要命令和步骤",
+        "date": "2025-01-11 18:17:56",
+        "updated": "2025-01-11 18:20:45"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "hb2w1yrqehasbu3q"
+        },
+        {
+          "title": "C++调试技术",
+          "doc_id": "hb2w1yrqehasbu3q"
+        }
+      ],
+      "realName": "GDB 调试程序主要命令和步骤",
+      "relativePath": "\\GDB 调试程序主要命令和步骤.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202195083,
+      "doc_id": "af21ctwg4uq89ple",
+      "updated": 1736590246000,
+      "properties": {
+        "title": "网络编程中为啥一定要处理 SIGPIPE 信号？",
+        "date": "2025-01-11 14:04:19",
+        "updated": "2025-01-11 18:10:46"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "af21ctwg4uq89ple"
+        }
+      ],
+      "realName": "网络编程中为啥一定要处理 SIGPIPE 信号？",
+      "relativePath": "\\网络编程中为啥一定要处理 SIGPIPE 信号？.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202011365,
+      "doc_id": "zodstuk3cb1ebn2a",
+      "updated": 1736448500000,
+      "properties": {
+        "title": "asio之socket的创建和连接",
+        "date": "2025-01-10 02:48:19",
+        "updated": "2025-01-10 02:48:20"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "zodstuk3cb1ebn2a"
+        },
+        {
+          "title": "C++网络编程",
+          "doc_id": "zodstuk3cb1ebn2a"
+        }
+      ],
+      "realName": "asio之socket的创建和连接",
+      "relativePath": "\\asio之socket的创建和连接.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202194018,
+      "doc_id": "ybkygdtps62nw5ek",
+      "updated": 1736574319000,
+      "properties": {
+        "title": "Linux 网络数据包的接收和发送流程",
+        "date": "2025-01-11 13:45:18",
+        "updated": "2025-01-11 13:45:19"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "ybkygdtps62nw5ek"
+        }
+      ],
+      "realName": "Linux 网络数据包的接收和发送流程",
+      "relativePath": "\\Linux 网络数据包的接收和发送流程.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202011344,
+      "doc_id": "tcmgwbfzhi76ltgk",
+      "updated": 1736448243000,
+      "properties": {
+        "title": "线程基础",
+        "date": "2025-01-10 02:44:02",
+        "updated": "2025-01-10 02:44:03"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "tcmgwbfzhi76ltgk"
+        },
+        {
+          "title": "C++ 并发编程",
+          "doc_id": "tcmgwbfzhi76ltgk"
+        }
+      ],
+      "realName": "线程基础",
+      "relativePath": "\\线程基础.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202011138,
+      "doc_id": "kbs2ydihotw2y14e",
+      "updated": 1736446572000,
+      "properties": {
+        "title": "🍏02-C++面试之static关键字_牛客网",
+        "date": "2025-01-10 02:11:52",
+        "updated": "2025-01-10 02:16:12"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "kbs2ydihotw2y14e"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "kbs2ydihotw2y14e"
+        }
+      ],
+      "realName": "🍏02-C++面试之static关键字_牛客网",
+      "relativePath": "\\🍏02-C++面试之static关键字_牛客网.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 202011161,
+      "doc_id": "gcg3ftgvfbt7kmx7",
+      "updated": 1736446502000,
+      "properties": {
+        "title": "🍎06-C++面试之STL内存管理篇_牛客网",
+        "date": "2025-01-10 02:15:01",
+        "updated": "2025-01-10 02:15:02"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "gcg3ftgvfbt7kmx7"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "gcg3ftgvfbt7kmx7"
+        }
+      ],
+      "realName": "🍎06-C++面试之STL内存管理篇_牛客网",
+      "relativePath": "\\🍎06-C++面试之STL内存管理篇_牛客网.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201374613,
+      "doc_id": "xk1a2nml5vqzldm3",
+      "updated": 1736440030000,
+      "properties": {
+        "title": "9. 模板方法模式",
+        "date": "2025-01-05 16:06:19",
+        "updated": "2025-01-10 00:27:10"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "xk1a2nml5vqzldm3"
+        },
+        {
+          "title": "3. 行为模式",
+          "doc_id": "xk1a2nml5vqzldm3"
+        }
+      ],
+      "realName": "9. 模板方法模式",
+      "relativePath": "\\9. 模板方法模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201373965,
+      "doc_id": "ppuq889x9qd45cg3",
+      "updated": 1736440013000,
+      "properties": {
+        "title": "1. 责任链模式",
+        "date": "2025-01-05 15:58:57",
+        "updated": "2025-01-10 00:26:53"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "ppuq889x9qd45cg3"
+        },
+        {
+          "title": "3. 行为模式",
+          "doc_id": "ppuq889x9qd45cg3"
+        }
+      ],
+      "realName": "1. 责任链模式",
+      "relativePath": "\\1. 责任链模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201373776,
+      "doc_id": "votb32lqo8sgwmcn",
+      "updated": 1736439969000,
+      "properties": {
+        "title": "4. 装饰模式",
+        "date": "2025-01-05 15:56:19",
+        "updated": "2025-01-10 00:26:09"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "votb32lqo8sgwmcn"
+        },
+        {
+          "title": "2. 结构型模式",
+          "doc_id": "votb32lqo8sgwmcn"
+        }
+      ],
+      "realName": "4. 装饰模式",
+      "relativePath": "\\4. 装饰模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201373896,
+      "doc_id": "eap6r7garsgivnly",
+      "updated": 1736439915000,
+      "properties": {
+        "title": "5. 外观模式",
+        "date": "2025-01-05 15:58:07",
+        "updated": "2025-01-10 00:25:15"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "eap6r7garsgivnly"
+        },
+        {
+          "title": "2. 结构型模式",
+          "doc_id": "eap6r7garsgivnly"
+        }
+      ],
+      "realName": "5. 外观模式",
+      "relativePath": "\\5. 外观模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201373931,
+      "doc_id": "kw3xl9oywa9qfnsm",
+      "updated": 1736439878000,
+      "properties": {
+        "title": "6. 享元模式",
+        "date": "2025-01-05 15:58:29",
+        "updated": "2025-01-10 00:24:38"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "kw3xl9oywa9qfnsm"
+        },
+        {
+          "title": "2. 结构型模式",
+          "doc_id": "kw3xl9oywa9qfnsm"
+        }
+      ],
+      "realName": "6. 享元模式",
+      "relativePath": "\\6. 享元模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201373858,
+      "doc_id": "ooanekysh7ztb74e",
+      "updated": 1736439822000,
+      "properties": {
+        "title": "7. 代理模式",
+        "date": "2025-01-05 15:57:31",
+        "updated": "2025-01-10 00:23:42"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "ooanekysh7ztb74e"
+        },
+        {
+          "title": "2. 结构型模式",
+          "doc_id": "ooanekysh7ztb74e"
+        }
+      ],
+      "realName": "7. 代理模式",
+      "relativePath": "\\7. 代理模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201840926,
+      "doc_id": "hlbydlxtb81oahwl",
+      "updated": 1736340425000,
+      "properties": {
+        "title": "stl几种容器详解",
+        "date": "2025-01-08 20:40:44",
+        "updated": "2025-01-08 20:47:05"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "hlbydlxtb81oahwl"
+        },
+        {
+          "title": "基础知识",
+          "doc_id": "hlbydlxtb81oahwl"
+        }
+      ],
+      "realName": "stl几种容器详解",
+      "relativePath": "\\stl几种容器详解.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201375968,
+      "doc_id": "ideo4aloqyoq3ma1",
+      "updated": 1736095000000,
+      "properties": {
+        "title": "IO多路转接（复用）之poll | 爱编程的大丙",
+        "date": "2025-01-05 16:23:05",
+        "updated": "2025-01-06 00:36:40"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "ideo4aloqyoq3ma1"
+        },
+        {
+          "title": "IO多路复用",
+          "doc_id": "ideo4aloqyoq3ma1"
+        }
+      ],
+      "realName": "IO多路转接（复用）之poll ! 爱编程的大丙",
+      "relativePath": "\\IO多路转接（复用）之poll ! 爱编程的大丙.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 196485560,
+      "doc_id": "lnbrpnkcbpbg3bwg",
+      "updated": 1736070707000,
+      "properties": {
+        "title": "Sctp 客户端与服务端",
+        "date": "2024-11-29 00:20:53",
+        "updated": "2025-01-05 17:51:47"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "lnbrpnkcbpbg3bwg"
+        }
+      ],
+      "realName": "Sctp 客户端与服务端",
+      "relativePath": "\\Sctp 客户端与服务端.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201382807,
+      "doc_id": "qpb56gu1ukke6ntg",
+      "updated": 1736070340000,
+      "properties": {
+        "title": "远程过程调用(RPC)",
+        "date": "2025-01-05 17:44:29",
+        "updated": "2025-01-05 17:45:40"
+      },
+      "catalog": [
+        {
+          "title": "Linux系统编程",
+          "doc_id": "qpb56gu1ukke6ntg"
+        },
+        {
+          "title": "进程间通信 IPC",
+          "doc_id": "qpb56gu1ukke6ntg"
+        }
+      ],
+      "realName": "远程过程调用(RPC)",
+      "relativePath": "\\远程过程调用(RPC).md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201382595,
+      "doc_id": "au7ngdrtpzema0fe",
+      "updated": 1736070403000,
+      "properties": {
+        "title": "透明进程间通信(TIPC)",
+        "date": "2025-01-05 17:42:47",
+        "updated": "2025-01-05 17:46:43"
+      },
+      "catalog": [
+        {
+          "title": "Linux系统编程",
+          "doc_id": "au7ngdrtpzema0fe"
+        },
+        {
+          "title": "进程间通信 IPC",
+          "doc_id": "au7ngdrtpzema0fe"
+        }
+      ],
+      "realName": "透明进程间通信(TIPC)",
+      "relativePath": "\\透明进程间通信(TIPC).md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201381211,
+      "doc_id": "ou7a6yayvuohk3hl",
+      "updated": 1736069524000,
+      "properties": {
+        "title": "消息队列",
+        "date": "2025-01-05 17:32:00",
+        "updated": "2025-01-05 17:32:04"
+      },
+      "catalog": [
+        {
+          "title": "Linux系统编程",
+          "doc_id": "ou7a6yayvuohk3hl"
+        },
+        {
+          "title": "进程间通信 IPC",
+          "doc_id": "ou7a6yayvuohk3hl"
+        }
+      ],
+      "realName": "消息队列",
+      "relativePath": "\\消息队列.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201378997,
+      "doc_id": "zd5waq2w6ryr18dg",
+      "updated": 1736067852000,
+      "properties": {
+        "title": "共享内存",
+        "date": "2025-01-05 16:59:24",
+        "updated": "2025-01-05 17:04:12"
+      },
+      "catalog": [
+        {
+          "title": "Linux系统编程",
+          "doc_id": "zd5waq2w6ryr18dg"
+        },
+        {
+          "title": "进程间通信 IPC",
+          "doc_id": "zd5waq2w6ryr18dg"
+        }
+      ],
+      "realName": "共享内存",
+      "relativePath": "\\共享内存.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201377763,
+      "doc_id": "eqegcre5lnrf7kqe",
+      "updated": 1736067402000,
+      "properties": {
+        "title": "内存映射(mmap)",
+        "date": "2025-01-05 16:44:00",
+        "updated": "2025-01-05 16:56:42"
+      },
+      "catalog": [
+        {
+          "title": "Linux系统编程",
+          "doc_id": "eqegcre5lnrf7kqe"
+        },
+        {
+          "title": "进程间通信 IPC",
+          "doc_id": "eqegcre5lnrf7kqe"
+        }
+      ],
+      "realName": "内存映射(mmap)",
+      "relativePath": "\\内存映射(mmap).md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201376516,
+      "doc_id": "qnu8hom01vyn96qw",
+      "updated": 1736066115000,
+      "properties": {
+        "title": "IO多路转接（复用）之epoll | 爱编程的大丙",
+        "date": "2025-01-05 16:28:58",
+        "updated": "2025-01-05 16:35:15"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "qnu8hom01vyn96qw"
+        },
+        {
+          "title": "IO多路复用",
+          "doc_id": "qnu8hom01vyn96qw"
+        }
+      ],
+      "realName": "IO多路转接（复用）之epoll ! 爱编程的大丙",
+      "relativePath": "\\IO多路转接（复用）之epoll ! 爱编程的大丙.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201375855,
+      "doc_id": "gfdp6yvphyhnghnc",
+      "updated": 1736065310000,
+      "properties": {
+        "title": "IO多路转接（复用）之select | 爱编程的大丙",
+        "date": "2025-01-05 16:21:49",
+        "updated": "2025-01-05 16:21:50"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "gfdp6yvphyhnghnc"
+        },
+        {
+          "title": "IO多路复用",
+          "doc_id": "gfdp6yvphyhnghnc"
+        }
+      ],
+      "realName": "IO多路转接（复用）之select ! 爱编程的大丙",
+      "relativePath": "\\IO多路转接（复用）之select ! 爱编程的大丙.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201372588,
+      "doc_id": "ok9vdramydomkzwc",
+      "updated": 1736063980000,
+      "properties": {
+        "title": "1. 适配器模式",
+        "date": "2025-01-05 15:41:09",
+        "updated": "2025-01-05 15:59:40"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "ok9vdramydomkzwc"
+        },
+        {
+          "title": "2. 结构型模式",
+          "doc_id": "ok9vdramydomkzwc"
+        }
+      ],
+      "realName": "1. 适配器模式",
+      "relativePath": "\\1. 适配器模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201372498,
+      "doc_id": "bycowvo536zt8qwf",
+      "updated": 1736062838000,
+      "properties": {
+        "title": "5. 生产器/建造者模式",
+        "date": "2025-01-05 15:39:37",
+        "updated": "2025-01-05 15:40:38"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "bycowvo536zt8qwf"
+        },
+        {
+          "title": "1. 创建型模式",
+          "doc_id": "bycowvo536zt8qwf"
+        }
+      ],
+      "realName": "5. 生产器!建造者模式",
+      "relativePath": "\\5. 生产器!建造者模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201372472,
+      "doc_id": "fp1npe8k5lt8ulnm",
+      "updated": 1736062821000,
+      "properties": {
+        "title": "6. 原型模式",
+        "date": "2025-01-05 15:39:14",
+        "updated": "2025-01-05 15:40:21"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "fp1npe8k5lt8ulnm"
+        },
+        {
+          "title": "1. 创建型模式",
+          "doc_id": "fp1npe8k5lt8ulnm"
+        }
+      ],
+      "realName": "6. 原型模式",
+      "relativePath": "\\6. 原型模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201372428,
+      "doc_id": "grrn8nhg8edzv167",
+      "updated": 1736062911000,
+      "properties": {
+        "title": "4. 抽象工厂模式",
+        "date": "2025-01-05 15:38:37",
+        "updated": "2025-01-05 15:41:51"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "grrn8nhg8edzv167"
+        },
+        {
+          "title": "1. 创建型模式",
+          "doc_id": "grrn8nhg8edzv167"
+        }
+      ],
+      "realName": "4. 抽象工厂模式",
+      "relativePath": "\\4. 抽象工厂模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201071041,
+      "doc_id": "ssp4d8ygdvgs8986",
+      "updated": 1736062901000,
+      "properties": {
+        "title": "3. 工厂模式",
+        "date": "2025-01-02 23:10:30",
+        "updated": "2025-01-05 15:41:41"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "ssp4d8ygdvgs8986"
+        },
+        {
+          "title": "1. 创建型模式",
+          "doc_id": "ssp4d8ygdvgs8986"
+        }
+      ],
+      "realName": "3. 工厂模式",
+      "relativePath": "\\3. 工厂模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 201057013,
+      "doc_id": "yqh7hu591773ca7o",
+      "updated": 1735825146000,
+      "properties": {
+        "title": "1. 单例模式",
+        "date": "2025-01-02 20:05:18",
+        "updated": "2025-01-02 21:39:06"
+      },
+      "catalog": [
+        {
+          "title": "设计模式",
+          "doc_id": "yqh7hu591773ca7o"
+        },
+        {
+          "title": "1. 创建型模式",
+          "doc_id": "yqh7hu591773ca7o"
+        }
+      ],
+      "realName": "1. 单例模式",
+      "relativePath": "\\1. 单例模式.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 200833084,
+      "doc_id": "dgiegsn25k6zrkv8",
+      "updated": 1735669882000,
+      "properties": {
+        "title": "面试问题总结----C/C++部分_c++ 面试-CSDN博客",
+        "date": "2025-01-01 02:26:20",
+        "updated": "2025-01-01 02:31:22"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "dgiegsn25k6zrkv8"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "dgiegsn25k6zrkv8"
+        }
+      ],
+      "realName": "面试问题总结----C!C++部分_c++ 面试-CSDN博客",
+      "relativePath": "\\面试问题总结----C!C++部分_c++ 面试-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 200833057,
+      "doc_id": "bsx6vgqnra45ay7k",
+      "updated": 1735669355000,
+      "properties": {
+        "title": "基础知识学习---牛客网C++面试宝典（二）C/C++基础之C++内存-CSDN博客",
+        "date": "2025-01-01 02:22:35",
+        "updated": "2025-01-01 02:22:35"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "bsx6vgqnra45ay7k"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "bsx6vgqnra45ay7k"
+        }
+      ],
+      "realName": "基础知识学习---牛客网C++面试宝典（二）C!C++基础之C++内存-CSDN博客",
+      "relativePath": "\\基础知识学习---牛客网C++面试宝典（二）C!C++基础之C++内存-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 200832824,
+      "doc_id": "lxsm4ogry4swnr1v",
+      "updated": 1735667902000,
+      "properties": {
+        "title": "c/c++常识（八股文篇）_c++八股文-CSDN博客",
+        "date": "2025-01-01 01:56:33",
+        "updated": "2025-01-01 01:58:22"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "lxsm4ogry4swnr1v"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "lxsm4ogry4swnr1v"
+        }
+      ],
+      "realName": "c!c++常识（八股文篇）_c++八股文-CSDN博客",
+      "relativePath": "\\c!c++常识（八股文篇）_c++八股文-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 200832722,
+      "doc_id": "geaohk1ps91im1cw",
+      "updated": 1735667174000,
+      "properties": {
+        "title": "C++ | 泛型编程，函数模板，类模板 |_泛型编程和函数式编程-CSDN博客",
+        "date": "2025-01-01 01:45:39",
+        "updated": "2025-01-01 01:46:14"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "geaohk1ps91im1cw"
+        },
+        {
+          "title": "基础知识",
+          "doc_id": "geaohk1ps91im1cw"
+        }
+      ],
+      "realName": "C++ ! 泛型编程，函数模板，类模板 !_泛型编程和函数式编程-CSDN博客",
+      "relativePath": "\\C++ ! 泛型编程，函数模板，类模板 !_泛型编程和函数式编程-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 200705299,
+      "doc_id": "guu94vpom1uyg6fo",
+      "updated": 1735622127000,
+      "properties": {
+        "title": "C++之继承总结（继承的定义与格式，赋值转换，默认成员函数，菱形继承及菱形虚拟继承）_c++函数继承格式-CSDN博客",
+        "date": "2024-12-31 01:13:23",
+        "updated": "2024-12-31 13:15:27"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "guu94vpom1uyg6fo"
+        },
+        {
+          "title": "基础知识",
+          "doc_id": "guu94vpom1uyg6fo"
+        }
+      ],
+      "realName": "C++之继承总结（继承的定义与格式，赋值转换，默认成员函数，菱形继承及菱形虚拟继承）_c++函数继承格式-CSDN博客",
+      "relativePath": "\\C++之继承总结（继承的定义与格式，赋值转换，默认成员函数，菱形继承及菱形虚拟继承）_c++函数继承格式-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 200832756,
+      "doc_id": "yipdsmati4fqby1q",
+      "updated": 1735667353000,
+      "properties": {
+        "title": "史上最全C/C++面试、C++面经八股文，一文带你彻底搞懂C/C++面试、C++面经！_c++八股-CSDN博客",
+        "date": "2025-01-01 01:49:12",
+        "updated": "2025-01-01 01:49:13"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "yipdsmati4fqby1q"
+        },
+        {
+          "title": "面试题",
+          "doc_id": "yipdsmati4fqby1q"
+        }
+      ],
+      "realName": "史上最全C!C++面试、C++面经八股文，一文带你彻底搞懂C!C++面试、C++面经！_c++八股-CSDN博客",
+      "relativePath": "\\史上最全C!C++面试、C++面经八股文，一文带你彻底搞懂C!C++面试、C++面经！_c++八股-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 200705288,
+      "doc_id": "ekgoi6n8x7i4eog3",
+      "updated": 1735578760000,
+      "properties": {
+        "title": "C++之多态总结（多态的定义及实现，抽象类，多态原理，单继承，多继承中的虚函数表）_c++多态的概念-CSDN博客",
+        "date": "2024-12-31 01:12:40",
+        "updated": "2024-12-31 01:12:40"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "ekgoi6n8x7i4eog3"
+        },
+        {
+          "title": "基础知识",
+          "doc_id": "ekgoi6n8x7i4eog3"
+        }
+      ],
+      "realName": "C++之多态总结（多态的定义及实现，抽象类，多态原理，单继承，多继承中的虚函数表）_c++多态的概念-CSDN博客",
+      "relativePath": "\\C++之多态总结（多态的定义及实现，抽象类，多态原理，单继承，多继承中的虚函数表）_c++多态的概念-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 200705211,
+      "doc_id": "gnzh00vyr0vgfkzc",
+      "updated": 1735578603000,
+      "properties": {
+        "title": "C/C++——new和delete的实现原理（详解）_delete[]的实现原理-CSDN博客",
+        "date": "2024-12-31 01:07:41",
+        "updated": "2024-12-31 01:10:03"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "gnzh00vyr0vgfkzc"
+        },
+        {
+          "title": "基础知识",
+          "doc_id": "gnzh00vyr0vgfkzc"
+        }
+      ],
+      "realName": "C!C++——new和delete的实现原理（详解）_delete[]的实现原理-CSDN博客",
+      "relativePath": "\\C!C++——new和delete的实现原理（详解）_delete[]的实现原理-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 200390326,
+      "doc_id": "vnip5oa98aqch63x",
+      "updated": 1735312075000,
+      "properties": {
+        "title": "Rust入门：Rust如何调用C静态库的函数_rust调用c函数-CSDN博客",
+        "date": "2024-12-27 23:06:43",
+        "updated": "2024-12-27 23:07:55"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "vnip5oa98aqch63x"
+        },
+        {
+          "title": "与C混合编译",
+          "doc_id": "vnip5oa98aqch63x"
+        }
+      ],
+      "realName": "Rust入门：Rust如何调用C静态库的函数_rust调用c函数-CSDN博客",
+      "relativePath": "\\Rust入门：Rust如何调用C静态库的函数_rust调用c函数-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 200388870,
+      "doc_id": "afqs5a87kv36ezq7",
+      "updated": 1735311951000,
+      "properties": {
+        "title": "Rust : 与C交互动态库和静态库的尝试",
+        "date": "2024-12-27 22:42:38",
+        "updated": "2024-12-27 23:05:51"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "afqs5a87kv36ezq7"
+        },
+        {
+          "title": "与C混合编译",
+          "doc_id": "afqs5a87kv36ezq7"
+        }
+      ],
+      "realName": "Rust ! 与C交互动态库和静态库的尝试",
+      "relativePath": "\\Rust ! 与C交互动态库和静态库的尝试.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 200103289,
+      "doc_id": "vixzq4lrgk9kkgk3",
+      "updated": 1735139341000,
+      "properties": {
+        "title": "Rust Actix Web 入门",
+        "date": "2024-12-25 22:52:31",
+        "updated": "2024-12-25 23:09:01"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "vixzq4lrgk9kkgk3"
+        }
+      ],
+      "realName": "Rust Actix Web 入门",
+      "relativePath": "\\Rust Actix Web 入门.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 199960650,
+      "doc_id": "zg8o57g9zatolwfg",
+      "updated": 1735051560000,
+      "properties": {
+        "title": "标准的rust后端项目的结构是怎样的呢",
+        "date": "2024-12-24 22:45:23",
+        "updated": "2024-12-24 22:46:00"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "zg8o57g9zatolwfg"
+        }
+      ],
+      "realName": "标准的rust后端项目的结构是怎样的呢",
+      "relativePath": "\\标准的rust后端项目的结构是怎样的呢.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 199819896,
+      "doc_id": "ckuadv45goyt5u5c",
+      "updated": 1735017494000,
+      "properties": {
+        "title": "[计算机网络]Socket网络编程_socket api计算机网络-CSDN博客",
+        "date": "2024-12-23 23:43:48",
+        "updated": "2024-12-24 13:18:14"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "ckuadv45goyt5u5c"
+        }
+      ],
+      "realName": "[计算机网络]Socket网络编程_socket api计算机网络-CSDN博客",
+      "relativePath": "\\[计算机网络]Socket网络编程_socket api计算机网络-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 199819574,
+      "doc_id": "qeucrzexcyle4wst",
+      "updated": 1734968313000,
+      "properties": {
+        "title": "[C++] 从零实现一个ping服务_c++ ping-CSDN博客",
+        "date": "2024-12-23 23:34:58",
+        "updated": "2024-12-23 23:38:33"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "qeucrzexcyle4wst"
+        }
+      ],
+      "realName": "[C++] 从零实现一个ping服务_c++ ping-CSDN博客",
+      "relativePath": "\\[C++] 从零实现一个ping服务_c++ ping-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 199332532,
+      "doc_id": "tl1qyi2ahx7ie392",
+      "updated": 1734966926000,
+      "properties": {
+        "title": "Rust标准库与常用库",
+        "date": "2024-12-20 00:02:38",
+        "updated": "2024-12-23 23:15:26"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "tl1qyi2ahx7ie392"
+        }
+      ],
+      "realName": "Rust标准库与常用库",
+      "relativePath": "\\Rust标准库与常用库.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 199817752,
+      "doc_id": "gv1a1yk2h47o9zgc",
+      "updated": 1734968155000,
+      "properties": {
+        "title": "[C++] 从零实现一个在线编译器_c++在线编译器-CSDN博客",
+        "date": "2024-12-23 23:02:33",
+        "updated": "2024-12-23 23:35:55"
+      },
+      "catalog": [
+        {
+          "title": "C++",
+          "doc_id": "gv1a1yk2h47o9zgc"
+        }
+      ],
+      "realName": "[C++] 从零实现一个在线编译器_c++在线编译器-CSDN博客",
+      "relativePath": "\\[C++] 从零实现一个在线编译器_c++在线编译器-CSDN博客.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197648968,
+      "doc_id": "uayzeiez6rla2bzm",
+      "updated": 1734966965000,
+      "properties": {
+        "title": "Build a real-time chat app with Rust and React - LogRocket Blog",
+        "date": "2024-12-07 11:58:14",
+        "updated": "2024-12-23 23:16:05"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "uayzeiez6rla2bzm"
+        }
+      ],
+      "realName": "Build a real-time chat app with Rust and React - LogRocket Blog",
+      "relativePath": "\\Build a real-time chat app with Rust and React - LogRocket Blog.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 198244117,
+      "doc_id": "lp3862vssg85hgoq",
+      "updated": 1734966965000,
+      "properties": {
+        "title": "Learn to build and deploy a chat app using Rust and React",
+        "date": "2024-12-11 18:59:51",
+        "updated": "2024-12-23 23:16:05"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "lp3862vssg85hgoq"
+        }
+      ],
+      "realName": "Learn to build and deploy a chat app using Rust and React",
+      "relativePath": "\\Learn to build and deploy a chat app using Rust and React.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197278099,
+      "doc_id": "nb7x2k9dogtg43mh",
+      "updated": 1734966914000,
+      "properties": {
+        "title": "Rust开发笔记 | LinkedList 双向链表",
+        "date": "2024-12-04 22:44:44",
+        "updated": "2024-12-23 23:15:14"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "nb7x2k9dogtg43mh"
+        },
+        {
+          "title": " 架构大师笔记",
+          "doc_id": "nb7x2k9dogtg43mh"
+        }
+      ],
+      "realName": "Rust开发笔记 ! LinkedList 双向链表",
+      "relativePath": "\\Rust开发笔记 ! LinkedList 双向链表.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197278025,
+      "doc_id": "sggr96vh8w4vgbgp",
+      "updated": 1734966914000,
+      "properties": {
+        "title": "Rust中的线程池",
+        "date": "2024-12-04 22:43:40",
+        "updated": "2024-12-23 23:15:14"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "sggr96vh8w4vgbgp"
+        },
+        {
+          "title": " 架构大师笔记",
+          "doc_id": "sggr96vh8w4vgbgp"
+        }
+      ],
+      "realName": "Rust中的线程池",
+      "relativePath": "\\Rust中的线程池.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197277555,
+      "doc_id": "yrg29g1x2b48kgi4",
+      "updated": 1734966914000,
+      "properties": {
+        "title": "Rust：从简单函数到高级抽象",
+        "date": "2024-12-04 22:39:08",
+        "updated": "2024-12-23 23:15:14"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "yrg29g1x2b48kgi4"
+        },
+        {
+          "title": " 架构大师笔记",
+          "doc_id": "yrg29g1x2b48kgi4"
+        }
+      ],
+      "realName": "Rust：从简单函数到高级抽象",
+      "relativePath": "\\Rust：从简单函数到高级抽象.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197277292,
+      "doc_id": "klwk7th76vkw4wfx",
+      "updated": 1734966965000,
+      "properties": {
+        "title": "Rust异步框架tokio开发实践",
+        "date": "2024-12-04 22:35:49",
+        "updated": "2024-12-23 23:16:05"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "klwk7th76vkw4wfx"
+        }
+      ],
+      "realName": "Rust异步框架tokio开发实践",
+      "relativePath": "\\Rust异步框架tokio开发实践.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197276916,
+      "doc_id": "qubfdhl13r7sfkus",
+      "updated": 1734966473000,
+      "properties": {
+        "title": "Rust并发编程必知必会：RwLock让你的代码性能暴增！读写锁才是并发的终极解决方案！",
+        "date": "2024-12-04 22:30:10",
+        "updated": "2024-12-23 23:07:53"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "qubfdhl13r7sfkus"
+        },
+        {
+          "title": " 黑客编程之道",
+          "doc_id": "qubfdhl13r7sfkus"
+        }
+      ],
+      "realName": "Rust并发编程必知必会：RwLock让你的代码性能暴增！读写锁才是并发的终极解决方案！",
+      "relativePath": "\\Rust并发编程必知必会：RwLock让你的代码性能暴增！读写锁才是并发的终极解决方案！.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197277204,
+      "doc_id": "euu2hngr5v8gli5q",
+      "updated": 1734966965000,
+      "properties": {
+        "title": "Rust 中的 S3 魔法：s3s 实战指南与优雅代码之旅",
+        "date": "2024-12-04 22:34:36",
+        "updated": "2024-12-23 23:16:05"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "euu2hngr5v8gli5q"
+        }
+      ],
+      "realName": "Rust 中的 S3 魔法：s3s 实战指南与优雅代码之旅",
+      "relativePath": "\\Rust 中的 S3 魔法：s3s 实战指南与优雅代码之旅.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197277096,
+      "doc_id": "eqp47740gi6g5q0c",
+      "updated": 1734966965000,
+      "properties": {
+        "title": "Rust 范型和 Rust 宏的实战使用场景",
+        "date": "2024-12-04 22:32:41",
+        "updated": "2024-12-23 23:16:05"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "eqp47740gi6g5q0c"
+        }
+      ],
+      "realName": "Rust 范型和 Rust 宏的实战使用场景",
+      "relativePath": "\\Rust 范型和 Rust 宏的实战使用场景.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197275310,
+      "doc_id": "vkdgbw236k49gmts",
+      "updated": 1734966473000,
+      "properties": {
+        "title": "深入理解Rust闭包三大特征",
+        "date": "2024-12-04 22:15:35",
+        "updated": "2024-12-23 23:07:53"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "vkdgbw236k49gmts"
+        },
+        {
+          "title": " 黑客编程之道",
+          "doc_id": "vkdgbw236k49gmts"
+        }
+      ],
+      "realName": "深入理解Rust闭包三大特征",
+      "relativePath": "\\深入理解Rust闭包三大特征.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197274215,
+      "doc_id": "yztlfaior2i8m2cu",
+      "updated": 1734966473000,
+      "properties": {
+        "title": "Rust序列化王者Serde",
+        "date": "2024-12-04 22:06:26",
+        "updated": "2024-12-23 23:07:53"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "yztlfaior2i8m2cu"
+        },
+        {
+          "title": " 黑客编程之道",
+          "doc_id": "yztlfaior2i8m2cu"
+        }
+      ],
+      "realName": "Rust序列化王者Serde",
+      "relativePath": "\\Rust序列化王者Serde.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197276350,
+      "doc_id": "zegmvy6rgp3zbyov",
+      "updated": 1734967199000,
+      "properties": {
+        "title": "动图图解！收到RST，就一定会断开TCP连接吗？",
+        "date": "2024-12-04 22:24:18",
+        "updated": "2024-12-23 23:19:59"
+      },
+      "catalog": [
+        {
+          "title": "Linux网络编程",
+          "doc_id": "zegmvy6rgp3zbyov"
+        }
+      ],
+      "realName": "动图图解！收到RST，就一定会断开TCP连接吗？",
+      "relativePath": "\\动图图解！收到RST，就一定会断开TCP连接吗？.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197257365,
+      "doc_id": "yczz3ypfw5tmt39e",
+      "updated": 1734966473000,
+      "properties": {
+        "title": "Rust 构建高性能网络协议",
+        "date": "2024-12-04 18:51:45",
+        "updated": "2024-12-23 23:07:53"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "yczz3ypfw5tmt39e"
+        },
+        {
+          "title": " 黑客编程之道",
+          "doc_id": "yczz3ypfw5tmt39e"
+        }
+      ],
+      "realName": "Rust 构建高性能网络协议",
+      "relativePath": "\\Rust 构建高性能网络协议.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 196977076,
+      "doc_id": "wqbborpg8pdlg7sb",
+      "updated": 1734966473000,
+      "properties": {
+        "title": "libc库系统编程",
+        "date": "2024-12-02 23:48:56",
+        "updated": "2024-12-23 23:07:53"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "wqbborpg8pdlg7sb"
+        },
+        {
+          "title": " 黑客编程之道",
+          "doc_id": "wqbborpg8pdlg7sb"
+        }
+      ],
+      "realName": "libc库系统编程",
+      "relativePath": "\\libc库系统编程.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 197194291,
+      "doc_id": "veghru0b7chn7640",
+      "updated": 1734966473000,
+      "properties": {
+        "title": "静态变量lazy_static",
+        "date": "2024-12-04 13:07:25",
+        "updated": "2024-12-23 23:07:53"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "veghru0b7chn7640"
+        },
+        {
+          "title": " 黑客编程之道",
+          "doc_id": "veghru0b7chn7640"
+        }
+      ],
+      "realName": "静态变量lazy_static",
+      "relativePath": "\\静态变量lazy_static.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 196480352,
+      "doc_id": "vp6zp79f7mqhtbz5",
+      "updated": 1734967339000,
+      "properties": {
+        "title": "JWT",
+        "date": "2024-11-28 22:34:11",
+        "updated": "2024-12-23 23:22:19"
+      },
+      "catalog": [
+        {
+          "title": "其它",
+          "doc_id": "vp6zp79f7mqhtbz5"
+        }
+      ],
+      "realName": "JWT",
+      "relativePath": "\\JWT.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 196555984,
+      "doc_id": "kmitpg72s0x4hu8s",
+      "updated": 1734966473000,
+      "properties": {
+        "title": "Cursor内存IO",
+        "date": "2024-11-29 13:37:38",
+        "updated": "2024-12-23 23:07:53"
+      },
+      "catalog": [
+        {
+          "title": "Rust",
+          "doc_id": "kmitpg72s0x4hu8s"
+        },
+        {
+          "title": " 黑客编程之道",
+          "doc_id": "kmitpg72s0x4hu8s"
+        }
+      ],
+      "realName": "Cursor内存IO",
+      "relativePath": "\\Cursor内存IO.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 194810518,
+      "doc_id": "tah8bycwe91ifcig",
+      "updated": 1734967339000,
+      "properties": {
+        "title": "万字长文，一篇吃透WebSocket",
+        "date": "2024-11-17 15:16:41",
+        "updated": "2024-12-23 23:22:19"
+      },
+      "catalog": [
+        {
+          "title": "其它",
+          "doc_id": "tah8bycwe91ifcig"
+        }
+      ],
+      "realName": "万字长文，一篇吃透WebSocket",
+      "relativePath": "\\万字长文，一篇吃透WebSocket.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 54370611,
+      "doc_id": "dxtsz4",
+      "updated": 1734967234000,
+      "properties": {
+        "title": "操作系统-进程调度",
+        "date": "2021-09-29 00:59:49",
+        "updated": "2024-12-23 23:20:34"
+      },
+      "catalog": [
+        {
+          "title": "Linux系统编程",
+          "doc_id": "dxtsz4"
+        }
+      ],
+      "realName": "操作系统-进程调度",
+      "relativePath": "\\操作系统-进程调度.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 54370702,
+      "doc_id": "fvhgak",
+      "updated": 1734967234000,
+      "properties": {
+        "title": "详解linux多线程——互斥锁、条件变量、读写锁、自旋锁、信号量",
+        "date": "2021-09-29 01:08:44",
+        "updated": "2024-12-23 23:20:34"
+      },
+      "catalog": [
+        {
+          "title": "Linux系统编程",
+          "doc_id": "fvhgak"
+        }
+      ],
+      "realName": "详解linux多线程——互斥锁、条件变量、读写锁、自旋锁、信号量",
+      "relativePath": "\\详解linux多线程——互斥锁、条件变量、读写锁、自旋锁、信号量.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 54370572,
+      "doc_id": "ldgya3",
+      "updated": 1734967234000,
+      "properties": {
+        "title": "操作系统-线程管理",
+        "date": "2021-09-29 00:56:45",
+        "updated": "2024-12-23 23:20:34"
+      },
+      "catalog": [
+        {
+          "title": "Linux系统编程",
+          "doc_id": "ldgya3"
+        }
+      ],
+      "realName": "操作系统-线程管理",
+      "relativePath": "\\操作系统-线程管理.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 54370482,
+      "doc_id": "uw4ixp",
+      "updated": 1734967234000,
+      "properties": {
+        "title": "操作系统-进程管理",
+        "date": "2021-09-29 00:48:18",
+        "updated": "2024-12-23 23:20:34"
+      },
+      "catalog": [
+        {
+          "title": "Linux系统编程",
+          "doc_id": "uw4ixp"
+        }
+      ],
+      "realName": "操作系统-进程管理",
+      "relativePath": "\\操作系统-进程管理.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 54370344,
+      "doc_id": "myf1pv",
+      "updated": 1735017525000,
+      "properties": {
+        "title": "进程通信-管道",
+        "date": "2021-09-29 00:36:04",
+        "updated": "2024-12-24 13:18:45"
+      },
+      "catalog": [
+        {
+          "title": "Linux系统编程",
+          "doc_id": "myf1pv"
+        },
+        {
+          "title": "进程间通信 IPC",
+          "doc_id": "myf1pv"
+        }
+      ],
+      "realName": "进程通信-管道",
+      "relativePath": "\\进程通信-管道.md",
+      "docPath": "./source/_posts"
+    }
+  ],
+  "catalog": [
+    {
+      "type": "TITLE",
+      "title": "C++",
+      "uuid": "ffMe6DXcggy6hKHy",
+      "url": "",
+      "prev_uuid": "",
+      "sibling_uuid": "97JwPGE2X5kRdZGc",
+      "child_uuid": "VNQyoF3zWg-JqSb8",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "基础语法",
+      "uuid": "VNQyoF3zWg-JqSb8",
+      "url": "",
+      "prev_uuid": "ffMe6DXcggy6hKHy",
+      "sibling_uuid": "qpMzEzIvZHcV6ClG",
+      "child_uuid": "Cugkb3ZxmSSBpc6m",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "STL常见容器",
+      "uuid": "Cugkb3ZxmSSBpc6m",
+      "url": "cd9lzbzoofdyokzt",
+      "prev_uuid": "VNQyoF3zWg-JqSb8",
+      "sibling_uuid": "U5PnIiqVG5Z_k7Ap",
+      "child_uuid": "",
+      "parent_uuid": "VNQyoF3zWg-JqSb8",
+      "doc_id": 209383117,
+      "level": 2,
+      "id": 209383117,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "四种强制转换类型",
+      "uuid": "U5PnIiqVG5Z_k7Ap",
+      "url": "qxdw93sshnbrnrrd",
+      "prev_uuid": "Cugkb3ZxmSSBpc6m",
+      "sibling_uuid": "eXuyX_SOqE9nK9G4",
+      "child_uuid": "",
+      "parent_uuid": "VNQyoF3zWg-JqSb8",
+      "doc_id": 206141869,
+      "level": 2,
+      "id": 206141869,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "成员函数重写是否virtual的区别",
+      "uuid": "eXuyX_SOqE9nK9G4",
+      "url": "nvaieghr1reiu659",
+      "prev_uuid": "U5PnIiqVG5Z_k7Ap",
+      "sibling_uuid": "8q78H5uolw9NtlVx",
+      "child_uuid": "",
+      "parent_uuid": "VNQyoF3zWg-JqSb8",
+      "doc_id": 209381691,
+      "level": 2,
+      "id": 209381691,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "虚函数表和虚函数在内存中的位置",
+      "uuid": "8q78H5uolw9NtlVx",
+      "url": "lfyef212f279v8xv",
+      "prev_uuid": "eXuyX_SOqE9nK9G4",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "VNQyoF3zWg-JqSb8",
+      "doc_id": 206855642,
+      "level": 2,
+      "id": 206855642,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "现代 c++ ：c++11 ~ c++23 新特性汇总",
+      "uuid": "qpMzEzIvZHcV6ClG",
+      "url": "hfcgb28m188ar0mb",
+      "prev_uuid": "VNQyoF3zWg-JqSb8",
+      "sibling_uuid": "UQ4lmQfkGEXORVBB",
+      "child_uuid": "",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": 217122927,
+      "level": 1,
+      "id": 217122927,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "图解C++对象模型《对象内存布局详解》",
+      "uuid": "UQ4lmQfkGEXORVBB",
+      "url": "ynbc4zw2lcn6qapg",
+      "prev_uuid": "qpMzEzIvZHcV6ClG",
+      "sibling_uuid": "oRdvTVpvWHCchcjN",
+      "child_uuid": "",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": 202748721,
+      "level": 1,
+      "id": 202748721,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "[C++] 从零实现一个ping服务_c++ ping-CSDN博客",
+      "uuid": "oRdvTVpvWHCchcjN",
+      "url": "qeucrzexcyle4wst",
+      "prev_uuid": "UQ4lmQfkGEXORVBB",
+      "sibling_uuid": "0nSzihzXEjtiVj6r",
+      "child_uuid": "",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": 199819574,
+      "level": 1,
+      "id": 199819574,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "[C++] 从零实现一个在线编译器_c++在线编译器-CSDN博客",
+      "uuid": "0nSzihzXEjtiVj6r",
+      "url": "gv1a1yk2h47o9zgc",
+      "prev_uuid": "oRdvTVpvWHCchcjN",
+      "sibling_uuid": "F_UmUlZKnOwyqMZW",
+      "child_uuid": "",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": 199817752,
+      "level": 1,
+      "id": 199817752,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "「C++」掌握C++异步编程-CSDN博客",
+      "uuid": "F_UmUlZKnOwyqMZW",
+      "url": "xvl597tyxbip4ddm",
+      "prev_uuid": "0nSzihzXEjtiVj6r",
+      "sibling_uuid": "RwqHD5bKdnoApkvd",
+      "child_uuid": "",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": 217564153,
+      "level": 1,
+      "id": 217564153,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "Boost深度剖析",
+      "uuid": "RwqHD5bKdnoApkvd",
+      "url": "",
+      "prev_uuid": "F_UmUlZKnOwyqMZW",
+      "sibling_uuid": "DMyG4JL5qrD4KSJ_",
+      "child_uuid": "eOg4b4vMKjio3CoD",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Boost库介绍",
+      "uuid": "eOg4b4vMKjio3CoD",
+      "url": "lihq2k5np81dbci6",
+      "prev_uuid": "RwqHD5bKdnoApkvd",
+      "sibling_uuid": "CNlMcAvODc_GrV8S",
+      "child_uuid": "",
+      "parent_uuid": "RwqHD5bKdnoApkvd",
+      "doc_id": 212130369,
+      "level": 2,
+      "id": 212130369,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "boost 中asio的io_context的理解",
+      "uuid": "CNlMcAvODc_GrV8S",
+      "url": "gpme99hqgvbyifig",
+      "prev_uuid": "eOg4b4vMKjio3CoD",
+      "sibling_uuid": "qEB71Fmx74RQtYJB",
+      "child_uuid": "",
+      "parent_uuid": "RwqHD5bKdnoApkvd",
+      "doc_id": 212131591,
+      "level": 2,
+      "id": 212131591,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "boost使用CMake和MinGW-w64的编译安装 | CherryHua Blog",
+      "uuid": "qEB71Fmx74RQtYJB",
+      "url": "tymk3l0u7x5hc9gx",
+      "prev_uuid": "CNlMcAvODc_GrV8S",
+      "sibling_uuid": "_QwG2I8rlqS3gPgD",
+      "child_uuid": "",
+      "parent_uuid": "RwqHD5bKdnoApkvd",
+      "doc_id": 209764763,
+      "level": 2,
+      "id": 209764763,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "深度剖析（1）：Boost C++ 库，《智能指针》全维度解析",
+      "uuid": "_QwG2I8rlqS3gPgD",
+      "url": "pzb8zcz4c9rclsu4",
+      "prev_uuid": "qEB71Fmx74RQtYJB",
+      "sibling_uuid": "TvMzJuWgyvk3YVRs",
+      "child_uuid": "",
+      "parent_uuid": "RwqHD5bKdnoApkvd",
+      "doc_id": 209455023,
+      "level": 2,
+      "id": 209455023,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "深度剖析（2）：Boost C++库，《函数对象》全维度解析",
+      "uuid": "TvMzJuWgyvk3YVRs",
+      "url": "vqmbv1nrul8qtd26",
+      "prev_uuid": "_QwG2I8rlqS3gPgD",
+      "sibling_uuid": "9qj5MrQsRyWz1oVe",
+      "child_uuid": "",
+      "parent_uuid": "RwqHD5bKdnoApkvd",
+      "doc_id": 209455353,
+      "level": 2,
+      "id": 209455353,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "深度剖析（7）：Boost C++库，《进程间通讯》全维度解析",
+      "uuid": "9qj5MrQsRyWz1oVe",
+      "url": "kligavzvlnsg341z",
+      "prev_uuid": "TvMzJuWgyvk3YVRs",
+      "sibling_uuid": "JA4Esk5KOG63SFrU",
+      "child_uuid": "",
+      "parent_uuid": "RwqHD5bKdnoApkvd",
+      "doc_id": 219789407,
+      "level": 2,
+      "id": 219789407,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "boost::interprocess 进程间通信之消息队列的实现_boost interproce",
+      "uuid": "JA4Esk5KOG63SFrU",
+      "url": "amgr8a1msf0znt1c",
+      "prev_uuid": "9qj5MrQsRyWz1oVe",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "RwqHD5bKdnoApkvd",
+      "doc_id": 219788197,
+      "level": 2,
+      "id": 219788197,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "C++调试技术",
+      "uuid": "DMyG4JL5qrD4KSJ_",
+      "url": "dlm4hg8pfh0qyrf4",
+      "prev_uuid": "RwqHD5bKdnoApkvd",
+      "sibling_uuid": "zlxLSRQTIMYlkaTH",
+      "child_uuid": "0xGvfJbRt3kF-tem",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": 202004032,
+      "level": 1,
+      "id": 202004032,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "GDB 调试程序主要命令和步骤",
+      "uuid": "0xGvfJbRt3kF-tem",
+      "url": "hb2w1yrqehasbu3q",
+      "prev_uuid": "DMyG4JL5qrD4KSJ_",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "DMyG4JL5qrD4KSJ_",
+      "doc_id": 202218041,
+      "level": 2,
+      "id": 202218041,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "C++网络编程",
+      "uuid": "zlxLSRQTIMYlkaTH",
+      "url": "",
+      "prev_uuid": "DMyG4JL5qrD4KSJ_",
+      "sibling_uuid": "hYZBzPZJVeiTAiIa",
+      "child_uuid": "9iDtzwxVuRTzqwuH",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "asio之socket的创建和连接",
+      "uuid": "9iDtzwxVuRTzqwuH",
+      "url": "zodstuk3cb1ebn2a",
+      "prev_uuid": "zlxLSRQTIMYlkaTH",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "zlxLSRQTIMYlkaTH",
+      "doc_id": 202011365,
+      "level": 2,
+      "id": 202011365,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "C++ 并发编程",
+      "uuid": "hYZBzPZJVeiTAiIa",
+      "url": "",
+      "prev_uuid": "zlxLSRQTIMYlkaTH",
+      "sibling_uuid": "XXvO9e5N0VmIyOw8",
+      "child_uuid": "kczV1XneE3ZoSNfK",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "线程基础",
+      "uuid": "kczV1XneE3ZoSNfK",
+      "url": "tcmgwbfzhi76ltgk",
+      "prev_uuid": "hYZBzPZJVeiTAiIa",
+      "sibling_uuid": "nMzx76KwVozuExdd",
+      "child_uuid": "",
+      "parent_uuid": "hYZBzPZJVeiTAiIa",
+      "doc_id": 202011344,
+      "level": 2,
+      "id": 202011344,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "并发编程实践：带你用C++20手写一个自己的线程池！",
+      "uuid": "nMzx76KwVozuExdd",
+      "url": "ksagrtuy36tym8xa",
+      "prev_uuid": "kczV1XneE3ZoSNfK",
+      "sibling_uuid": "LmjKzWrBGLzlGt1D",
+      "child_uuid": "",
+      "parent_uuid": "hYZBzPZJVeiTAiIa",
+      "doc_id": 207806575,
+      "level": 2,
+      "id": 207806575,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "异步线程池(基于C++11实现) | 爱编程的大丙",
+      "uuid": "LmjKzWrBGLzlGt1D",
+      "url": "kvuy8uken3eaieub",
+      "prev_uuid": "nMzx76KwVozuExdd",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "hYZBzPZJVeiTAiIa",
+      "doc_id": 203148694,
+      "level": 2,
+      "id": 203148694,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "基础知识",
+      "uuid": "XXvO9e5N0VmIyOw8",
+      "url": "",
+      "prev_uuid": "hYZBzPZJVeiTAiIa",
+      "sibling_uuid": "Z3ix1PObRzXC2Eah",
+      "child_uuid": "OkBtpokvScGkIwSA",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "智能指针",
+      "uuid": "OkBtpokvScGkIwSA",
+      "url": "gxbbhuloznopm845",
+      "prev_uuid": "XXvO9e5N0VmIyOw8",
+      "sibling_uuid": "ePFkjYyFtvY3w7_C",
+      "child_uuid": "",
+      "parent_uuid": "XXvO9e5N0VmIyOw8",
+      "doc_id": 206160731,
+      "level": 2,
+      "id": 206160731,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "80万年薪C++岗位，掌握STL和你是否一样",
+      "uuid": "ePFkjYyFtvY3w7_C",
+      "url": "mw2dxyq7gglw85gb",
+      "prev_uuid": "OkBtpokvScGkIwSA",
+      "sibling_uuid": "nG3w8zz9Ca-U4zOA",
+      "child_uuid": "",
+      "parent_uuid": "XXvO9e5N0VmIyOw8",
+      "doc_id": 205058553,
+      "level": 2,
+      "id": 205058553,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "C/C++——new和delete的实现原理（详解）_delete[]的实现原理-CSDN博客",
+      "uuid": "nG3w8zz9Ca-U4zOA",
+      "url": "gnzh00vyr0vgfkzc",
+      "prev_uuid": "ePFkjYyFtvY3w7_C",
+      "sibling_uuid": "uAIyNDFKvz9ayhnb",
+      "child_uuid": "",
+      "parent_uuid": "XXvO9e5N0VmIyOw8",
+      "doc_id": 200705211,
+      "level": 2,
+      "id": 200705211,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "C++之继承总结（继承的定义与格式，赋值转换，默认成员函数，菱形继承及菱形虚拟继承）_c++函数继承格式-CSDN博客",
+      "uuid": "uAIyNDFKvz9ayhnb",
+      "url": "guu94vpom1uyg6fo",
+      "prev_uuid": "nG3w8zz9Ca-U4zOA",
+      "sibling_uuid": "0pqLKrFt7jiyvdmA",
+      "child_uuid": "",
+      "parent_uuid": "XXvO9e5N0VmIyOw8",
+      "doc_id": 200705299,
+      "level": 2,
+      "id": 200705299,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "C++之多态总结（多态的定义及实现，抽象类，多态原理，单继承，多继承中的虚函数表）_c++多态的概念-CSDN博客",
+      "uuid": "0pqLKrFt7jiyvdmA",
+      "url": "ekgoi6n8x7i4eog3",
+      "prev_uuid": "uAIyNDFKvz9ayhnb",
+      "sibling_uuid": "2ivy3GU-rcI7GrYX",
+      "child_uuid": "",
+      "parent_uuid": "XXvO9e5N0VmIyOw8",
+      "doc_id": 200705288,
+      "level": 2,
+      "id": 200705288,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "C++ | 泛型编程，函数模板，类模板 |_泛型编程和函数式编程-CSDN博客",
+      "uuid": "2ivy3GU-rcI7GrYX",
+      "url": "geaohk1ps91im1cw",
+      "prev_uuid": "0pqLKrFt7jiyvdmA",
+      "sibling_uuid": "LIkSpCOeX-V6xp0Q",
+      "child_uuid": "",
+      "parent_uuid": "XXvO9e5N0VmIyOw8",
+      "doc_id": 200832722,
+      "level": 2,
+      "id": 200832722,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "stl几种容器详解",
+      "uuid": "LIkSpCOeX-V6xp0Q",
+      "url": "hlbydlxtb81oahwl",
+      "prev_uuid": "2ivy3GU-rcI7GrYX",
+      "sibling_uuid": "k15tBKxQpydA97hS",
+      "child_uuid": "",
+      "parent_uuid": "XXvO9e5N0VmIyOw8",
+      "doc_id": 201840926,
+      "level": 2,
+      "id": 201840926,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "map和unordered_map",
+      "uuid": "k15tBKxQpydA97hS",
+      "url": "vkop1lebwb8tdmg6",
+      "prev_uuid": "LIkSpCOeX-V6xp0Q",
+      "sibling_uuid": "ZanBHkQzLfod_Bba",
+      "child_uuid": "",
+      "parent_uuid": "XXvO9e5N0VmIyOw8",
+      "doc_id": 200876351,
+      "level": 2,
+      "id": 200876351,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "vector",
+      "uuid": "ZanBHkQzLfod_Bba",
+      "url": "fbxhvaifyl471g9t",
+      "prev_uuid": "k15tBKxQpydA97hS",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "XXvO9e5N0VmIyOw8",
+      "doc_id": 200875289,
+      "level": 2,
+      "id": 200875289,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "面试题",
+      "uuid": "Z3ix1PObRzXC2Eah",
+      "url": "",
+      "prev_uuid": "XXvO9e5N0VmIyOw8",
+      "sibling_uuid": "",
+      "child_uuid": "Y-j3TuwgMIPHasf_",
+      "parent_uuid": "ffMe6DXcggy6hKHy",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "这些C++工程师面试题你都会了吗？",
+      "uuid": "Y-j3TuwgMIPHasf_",
+      "url": "sa465irtyuyb5k8g",
+      "prev_uuid": "Z3ix1PObRzXC2Eah",
+      "sibling_uuid": "IHgNXkRpTBapFo1u",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 207806416,
+      "level": 2,
+      "id": 207806416,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "C++基础面试题 | C++中const的作用？",
+      "uuid": "IHgNXkRpTBapFo1u",
+      "url": "uetcdrqz72l4f66x",
+      "prev_uuid": "Y-j3TuwgMIPHasf_",
+      "sibling_uuid": "73Ln-lEpL4tH1dxe",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 206318029,
+      "level": 2,
+      "id": 206318029,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "C++基础面试题 | C++中static的作用？",
+      "uuid": "73Ln-lEpL4tH1dxe",
+      "url": "bab2awgg283lhhp0",
+      "prev_uuid": "IHgNXkRpTBapFo1u",
+      "sibling_uuid": "doSg2zKlvIUu4C1e",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 206318068,
+      "level": 2,
+      "id": 206318068,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "【C/C++】 秋招常考面试题最全总结（让你有一种相见恨晚的感觉）_c++面试题 由浅及深-CSDN博客",
+      "uuid": "doSg2zKlvIUu4C1e",
+      "url": "yui4guipzzgo50h7",
+      "prev_uuid": "73Ln-lEpL4tH1dxe",
+      "sibling_uuid": "UpglhY-VX1-DS0QR",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 206142115,
+      "level": 2,
+      "id": 206142115,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2025年春招大厂面试官，C++必问55道面试题",
+      "uuid": "UpglhY-VX1-DS0QR",
+      "url": "gv1l7vuwe4m8ipk6",
+      "prev_uuid": "doSg2zKlvIUu4C1e",
+      "sibling_uuid": "CCdbhc6RpsdexhZc",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 204979633,
+      "level": 2,
+      "id": 204979633,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "面试官爱问，命中率最高，100道C++面试题，全面总结分析",
+      "uuid": "CCdbhc6RpsdexhZc",
+      "url": "gkyp4x5n5dakfrsi",
+      "prev_uuid": "UpglhY-VX1-DS0QR",
+      "sibling_uuid": "TdO_uchVLUeb1OEk",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 204978937,
+      "level": 2,
+      "id": 204978937,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "高级 C++ 开发综合岗面试题，能挑战否？",
+      "uuid": "TdO_uchVLUeb1OEk",
+      "url": "shky0gzoqu15ylgc",
+      "prev_uuid": "CCdbhc6RpsdexhZc",
+      "sibling_uuid": "lLgTQOCcq3s2lNPp",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 202218286,
+      "level": 2,
+      "id": 202218286,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "🍏02-C++面试之static关键字_牛客网",
+      "uuid": "lLgTQOCcq3s2lNPp",
+      "url": "kbs2ydihotw2y14e",
+      "prev_uuid": "TdO_uchVLUeb1OEk",
+      "sibling_uuid": "bZYezYvVWGWdLE0G",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 202011138,
+      "level": 2,
+      "id": 202011138,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "🍎06-C++面试之STL内存管理篇_牛客网",
+      "uuid": "bZYezYvVWGWdLE0G",
+      "url": "gcg3ftgvfbt7kmx7",
+      "prev_uuid": "lLgTQOCcq3s2lNPp",
+      "sibling_uuid": "tx-ICvLctv6qGoK-",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 202011161,
+      "level": 2,
+      "id": 202011161,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "面试问题总结----C/C++部分_c++ 面试-CSDN博客",
+      "uuid": "tx-ICvLctv6qGoK-",
+      "url": "dgiegsn25k6zrkv8",
+      "prev_uuid": "bZYezYvVWGWdLE0G",
+      "sibling_uuid": "gtG5PpeOcru8cfJ7",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 200833084,
+      "level": 2,
+      "id": 200833084,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "基础知识学习---牛客网C++面试宝典（二）C/C++基础之C++内存-CSDN博客",
+      "uuid": "gtG5PpeOcru8cfJ7",
+      "url": "bsx6vgqnra45ay7k",
+      "prev_uuid": "tx-ICvLctv6qGoK-",
+      "sibling_uuid": "uEr8fH4uyuySUeWk",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 200833057,
+      "level": 2,
+      "id": 200833057,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "c/c++常识（八股文篇）_c++八股文-CSDN博客",
+      "uuid": "uEr8fH4uyuySUeWk",
+      "url": "lxsm4ogry4swnr1v",
+      "prev_uuid": "gtG5PpeOcru8cfJ7",
+      "sibling_uuid": "BJVb_OjRmSK3fgqt",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 200832824,
+      "level": 2,
+      "id": 200832824,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "史上最全C/C++面试、C++面经八股文，一文带你彻底搞懂C/C++面试、C++面经！_c++八股-CSDN博客",
+      "uuid": "BJVb_OjRmSK3fgqt",
+      "url": "yipdsmati4fqby1q",
+      "prev_uuid": "uEr8fH4uyuySUeWk",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "Z3ix1PObRzXC2Eah",
+      "doc_id": 200832756,
+      "level": 2,
+      "id": 200832756,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "数据结构与算法",
+      "uuid": "97JwPGE2X5kRdZGc",
+      "url": "",
+      "prev_uuid": "ffMe6DXcggy6hKHy",
+      "sibling_uuid": "dJlc9N9BXx9sJ9Ts",
+      "child_uuid": "82lTnqoBRFipyv8e",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "LINK",
+      "title": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程",
+      "uuid": "82lTnqoBRFipyv8e",
+      "url": "https://www.hello-algo.com/chapter_hello_algo/",
+      "prev_uuid": "97JwPGE2X5kRdZGc",
+      "sibling_uuid": "9R5jJNCSWVdp51AU",
+      "child_uuid": "",
+      "parent_uuid": "97JwPGE2X5kRdZGc",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2小时快速掌握面试跳槽技术栈，C++算法常见50道面试题必会",
+      "uuid": "9R5jJNCSWVdp51AU",
+      "url": "wyk9hantvizoqe0e",
+      "prev_uuid": "82lTnqoBRFipyv8e",
+      "sibling_uuid": "4kjelc1I6bHXqnEV",
+      "child_uuid": "",
+      "parent_uuid": "97JwPGE2X5kRdZGc",
+      "doc_id": 205464165,
+      "level": 1,
+      "id": 205464165,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "七大常见的算法思想",
+      "uuid": "4kjelc1I6bHXqnEV",
+      "url": "kr7vgd5dy1c4cu4q",
+      "prev_uuid": "9R5jJNCSWVdp51AU",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "97JwPGE2X5kRdZGc",
+      "doc_id": 219311039,
+      "level": 1,
+      "id": 219311039,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "设计模式",
+      "uuid": "dJlc9N9BXx9sJ9Ts",
+      "url": "",
+      "prev_uuid": "97JwPGE2X5kRdZGc",
+      "sibling_uuid": "SV7DikbfoFx_l58E",
+      "child_uuid": "imJIv6nJgkfdjRzP",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "1. 创建型模式",
+      "uuid": "imJIv6nJgkfdjRzP",
+      "url": "",
+      "prev_uuid": "dJlc9N9BXx9sJ9Ts",
+      "sibling_uuid": "TQg9bEOQNHe2U0bH",
+      "child_uuid": "Vq1x-YuInDjw6N3A",
+      "parent_uuid": "dJlc9N9BXx9sJ9Ts",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "1. 单例模式",
+      "uuid": "Vq1x-YuInDjw6N3A",
+      "url": "yqh7hu591773ca7o",
+      "prev_uuid": "imJIv6nJgkfdjRzP",
+      "sibling_uuid": "2o6YMw916ZiWpalk",
+      "child_uuid": "oHT_0G8qn_DqtrRp",
+      "parent_uuid": "imJIv6nJgkfdjRzP",
+      "doc_id": 201057013,
+      "level": 2,
+      "id": 201057013,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "模版代码",
+      "uuid": "oHT_0G8qn_DqtrRp",
+      "url": "qter0toyhewatumc",
+      "prev_uuid": "Vq1x-YuInDjw6N3A",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "Vq1x-YuInDjw6N3A",
+      "doc_id": 202996293,
+      "level": 3,
+      "id": 202996293,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2. 简单工厂模式",
+      "uuid": "2o6YMw916ZiWpalk",
+      "url": "huxnt3flcgird5tg",
+      "prev_uuid": "Vq1x-YuInDjw6N3A",
+      "sibling_uuid": "6_9Yd6m_Vkvy_Dv3",
+      "child_uuid": "",
+      "parent_uuid": "imJIv6nJgkfdjRzP",
+      "doc_id": 201372358,
+      "level": 2,
+      "id": 201372358,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3. 工厂模式",
+      "uuid": "6_9Yd6m_Vkvy_Dv3",
+      "url": "ssp4d8ygdvgs8986",
+      "prev_uuid": "2o6YMw916ZiWpalk",
+      "sibling_uuid": "CGKdq3qO4tGBj5Ol",
+      "child_uuid": "",
+      "parent_uuid": "imJIv6nJgkfdjRzP",
+      "doc_id": 201071041,
+      "level": 2,
+      "id": 201071041,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4. 抽象工厂模式",
+      "uuid": "CGKdq3qO4tGBj5Ol",
+      "url": "grrn8nhg8edzv167",
+      "prev_uuid": "6_9Yd6m_Vkvy_Dv3",
+      "sibling_uuid": "N9PytiwiVslkhnW_",
+      "child_uuid": "",
+      "parent_uuid": "imJIv6nJgkfdjRzP",
+      "doc_id": 201372428,
+      "level": 2,
+      "id": 201372428,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "5. 生产器/建造者模式",
+      "uuid": "N9PytiwiVslkhnW_",
+      "url": "bycowvo536zt8qwf",
+      "prev_uuid": "CGKdq3qO4tGBj5Ol",
+      "sibling_uuid": "AGA9Q0R1EDMHDgCg",
+      "child_uuid": "",
+      "parent_uuid": "imJIv6nJgkfdjRzP",
+      "doc_id": 201372498,
+      "level": 2,
+      "id": 201372498,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6. 原型模式",
+      "uuid": "AGA9Q0R1EDMHDgCg",
+      "url": "fp1npe8k5lt8ulnm",
+      "prev_uuid": "N9PytiwiVslkhnW_",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "imJIv6nJgkfdjRzP",
+      "doc_id": 201372472,
+      "level": 2,
+      "id": 201372472,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "2. 结构型模式",
+      "uuid": "TQg9bEOQNHe2U0bH",
+      "url": "",
+      "prev_uuid": "imJIv6nJgkfdjRzP",
+      "sibling_uuid": "TxCIa0yAfnJwNKDD",
+      "child_uuid": "ZbAu0XSuLgRlHA-r",
+      "parent_uuid": "dJlc9N9BXx9sJ9Ts",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "1. 适配器模式",
+      "uuid": "ZbAu0XSuLgRlHA-r",
+      "url": "ok9vdramydomkzwc",
+      "prev_uuid": "TQg9bEOQNHe2U0bH",
+      "sibling_uuid": "fIA_8Dh835d3Z4ZD",
+      "child_uuid": "",
+      "parent_uuid": "TQg9bEOQNHe2U0bH",
+      "doc_id": 201372588,
+      "level": 2,
+      "id": 201372588,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2. 桥接模式",
+      "uuid": "fIA_8Dh835d3Z4ZD",
+      "url": "vggn294dmzwzwf41",
+      "prev_uuid": "ZbAu0XSuLgRlHA-r",
+      "sibling_uuid": "R82fzHCDGP4dIdHW",
+      "child_uuid": "",
+      "parent_uuid": "TQg9bEOQNHe2U0bH",
+      "doc_id": 201373825,
+      "level": 2,
+      "id": 201373825,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3. 组合模式",
+      "uuid": "R82fzHCDGP4dIdHW",
+      "url": "cvzi1d73cn50csrd",
+      "prev_uuid": "fIA_8Dh835d3Z4ZD",
+      "sibling_uuid": "A510aNJ90a7GTsot",
+      "child_uuid": "",
+      "parent_uuid": "TQg9bEOQNHe2U0bH",
+      "doc_id": 201373725,
+      "level": 2,
+      "id": 201373725,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4. 装饰模式",
+      "uuid": "A510aNJ90a7GTsot",
+      "url": "votb32lqo8sgwmcn",
+      "prev_uuid": "R82fzHCDGP4dIdHW",
+      "sibling_uuid": "AXGKdDPlQWB3DHrR",
+      "child_uuid": "",
+      "parent_uuid": "TQg9bEOQNHe2U0bH",
+      "doc_id": 201373776,
+      "level": 2,
+      "id": 201373776,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "5. 外观模式",
+      "uuid": "AXGKdDPlQWB3DHrR",
+      "url": "eap6r7garsgivnly",
+      "prev_uuid": "A510aNJ90a7GTsot",
+      "sibling_uuid": "Un7LUS0wP2hvOOHH",
+      "child_uuid": "",
+      "parent_uuid": "TQg9bEOQNHe2U0bH",
+      "doc_id": 201373896,
+      "level": 2,
+      "id": 201373896,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6. 享元模式",
+      "uuid": "Un7LUS0wP2hvOOHH",
+      "url": "kw3xl9oywa9qfnsm",
+      "prev_uuid": "AXGKdDPlQWB3DHrR",
+      "sibling_uuid": "jhiTldVYY1sg0e4p",
+      "child_uuid": "",
+      "parent_uuid": "TQg9bEOQNHe2U0bH",
+      "doc_id": 201373931,
+      "level": 2,
+      "id": 201373931,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "7. 代理模式",
+      "uuid": "jhiTldVYY1sg0e4p",
+      "url": "ooanekysh7ztb74e",
+      "prev_uuid": "Un7LUS0wP2hvOOHH",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "TQg9bEOQNHe2U0bH",
+      "doc_id": 201373858,
+      "level": 2,
+      "id": 201373858,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "3. 行为模式",
+      "uuid": "TxCIa0yAfnJwNKDD",
+      "url": "",
+      "prev_uuid": "TQg9bEOQNHe2U0bH",
+      "sibling_uuid": "",
+      "child_uuid": "4Xd1bhUyWqpYiOrk",
+      "parent_uuid": "dJlc9N9BXx9sJ9Ts",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "1. 责任链模式",
+      "uuid": "4Xd1bhUyWqpYiOrk",
+      "url": "ppuq889x9qd45cg3",
+      "prev_uuid": "TxCIa0yAfnJwNKDD",
+      "sibling_uuid": "UVpezT4bumvB7-7W",
+      "child_uuid": "",
+      "parent_uuid": "TxCIa0yAfnJwNKDD",
+      "doc_id": 201373965,
+      "level": 2,
+      "id": 201373965,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "2. 命令模式",
+      "uuid": "UVpezT4bumvB7-7W",
+      "url": "mktwtlolagu5c38i",
+      "prev_uuid": "4Xd1bhUyWqpYiOrk",
+      "sibling_uuid": "iGj0jDGyuusN526X",
+      "child_uuid": "",
+      "parent_uuid": "TxCIa0yAfnJwNKDD",
+      "doc_id": 201374081,
+      "level": 2,
+      "id": 201374081,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "3. 迭代器模式",
+      "uuid": "iGj0jDGyuusN526X",
+      "url": "oa49qoxeuvq3tguu",
+      "prev_uuid": "UVpezT4bumvB7-7W",
+      "sibling_uuid": "RHeMIhfppuPqzWiL",
+      "child_uuid": "",
+      "parent_uuid": "TxCIa0yAfnJwNKDD",
+      "doc_id": 201374106,
+      "level": 2,
+      "id": 201374106,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "4. 中介者模式",
+      "uuid": "RHeMIhfppuPqzWiL",
+      "url": "hk8sh1gxwauqbula",
+      "prev_uuid": "iGj0jDGyuusN526X",
+      "sibling_uuid": "732MFaEQmzrv9Scr",
+      "child_uuid": "",
+      "parent_uuid": "TxCIa0yAfnJwNKDD",
+      "doc_id": 201374138,
+      "level": 2,
+      "id": 201374138,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "5. 备忘录模式",
+      "uuid": "732MFaEQmzrv9Scr",
+      "url": "zz5u98oh9urgzara",
+      "prev_uuid": "RHeMIhfppuPqzWiL",
+      "sibling_uuid": "3hqAPUrS2Wl0FFmq",
+      "child_uuid": "",
+      "parent_uuid": "TxCIa0yAfnJwNKDD",
+      "doc_id": 201374262,
+      "level": 2,
+      "id": 201374262,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "6. 观察者模式",
+      "uuid": "3hqAPUrS2Wl0FFmq",
+      "url": "cz7e44qxwqzuqu8t",
+      "prev_uuid": "732MFaEQmzrv9Scr",
+      "sibling_uuid": "OBmJ2Idk-pHpRoHV",
+      "child_uuid": "",
+      "parent_uuid": "TxCIa0yAfnJwNKDD",
+      "doc_id": 201374297,
+      "level": 2,
+      "id": 201374297,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "7. 策略模式",
+      "uuid": "OBmJ2Idk-pHpRoHV",
+      "url": "roq7nvhyu5dbpnda",
+      "prev_uuid": "3hqAPUrS2Wl0FFmq",
+      "sibling_uuid": "Ezmbuik_qQUg-b8i",
+      "child_uuid": "",
+      "parent_uuid": "TxCIa0yAfnJwNKDD",
+      "doc_id": 201374377,
+      "level": 2,
+      "id": 201374377,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "8. 状态模式",
+      "uuid": "Ezmbuik_qQUg-b8i",
+      "url": "uu5bnr0gis16upk2",
+      "prev_uuid": "OBmJ2Idk-pHpRoHV",
+      "sibling_uuid": "9tHPG9QL8LFLklCG",
+      "child_uuid": "",
+      "parent_uuid": "TxCIa0yAfnJwNKDD",
+      "doc_id": 201374474,
+      "level": 2,
+      "id": 201374474,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "9. 模板方法模式",
+      "uuid": "9tHPG9QL8LFLklCG",
+      "url": "xk1a2nml5vqzldm3",
+      "prev_uuid": "Ezmbuik_qQUg-b8i",
+      "sibling_uuid": "2akFj_c-Iu9q2rd6",
+      "child_uuid": "",
+      "parent_uuid": "TxCIa0yAfnJwNKDD",
+      "doc_id": 201374613,
+      "level": 2,
+      "id": 201374613,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "10. 访问者模式",
+      "uuid": "2akFj_c-Iu9q2rd6",
+      "url": "ag0nm1vfa7m1478a",
+      "prev_uuid": "9tHPG9QL8LFLklCG",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "TxCIa0yAfnJwNKDD",
+      "doc_id": 201374639,
+      "level": 2,
+      "id": 201374639,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "Linux系统编程",
+      "uuid": "SV7DikbfoFx_l58E",
+      "url": "",
+      "prev_uuid": "dJlc9N9BXx9sJ9Ts",
+      "sibling_uuid": "IljGGNZCjJHY_Fsm",
+      "child_uuid": "7RV3mH-vZADPqFg5",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "进程与线程",
+      "uuid": "7RV3mH-vZADPqFg5",
+      "url": "gqt81b0o7t8goomz",
+      "prev_uuid": "SV7DikbfoFx_l58E",
+      "sibling_uuid": "gxeTEfLbjJzoQTgy",
+      "child_uuid": "",
+      "parent_uuid": "SV7DikbfoFx_l58E",
+      "doc_id": 205865156,
+      "level": 1,
+      "id": 205865156,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "操作系统-进程管理",
+      "uuid": "gxeTEfLbjJzoQTgy",
+      "url": "uw4ixp",
+      "prev_uuid": "7RV3mH-vZADPqFg5",
+      "sibling_uuid": "lUutl_KpplXHM0pt",
+      "child_uuid": "",
+      "parent_uuid": "SV7DikbfoFx_l58E",
+      "doc_id": 54370482,
+      "level": 1,
+      "id": 54370482,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "操作系统-线程管理",
+      "uuid": "lUutl_KpplXHM0pt",
+      "url": "ldgya3",
+      "prev_uuid": "gxeTEfLbjJzoQTgy",
+      "sibling_uuid": "ZKablnRsaxshvYDx",
+      "child_uuid": "",
+      "parent_uuid": "SV7DikbfoFx_l58E",
+      "doc_id": 54370572,
+      "level": 1,
+      "id": 54370572,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "操作系统-进程调度",
+      "uuid": "ZKablnRsaxshvYDx",
+      "url": "dxtsz4",
+      "prev_uuid": "lUutl_KpplXHM0pt",
+      "sibling_uuid": "WT1yUd4pQCfDEZV3",
+      "child_uuid": "",
+      "parent_uuid": "SV7DikbfoFx_l58E",
+      "doc_id": 54370611,
+      "level": 1,
+      "id": 54370611,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "进程间通信 IPC",
+      "uuid": "WT1yUd4pQCfDEZV3",
+      "url": "",
+      "prev_uuid": "ZKablnRsaxshvYDx",
+      "sibling_uuid": "DMlnQ_Susc3tKZ9X",
+      "child_uuid": "6I1XESImHdf_AE2H",
+      "parent_uuid": "SV7DikbfoFx_l58E",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "进程通信-管道",
+      "uuid": "6I1XESImHdf_AE2H",
+      "url": "myf1pv",
+      "prev_uuid": "WT1yUd4pQCfDEZV3",
+      "sibling_uuid": "h883R8JXYMCWB2Tk",
+      "child_uuid": "",
+      "parent_uuid": "WT1yUd4pQCfDEZV3",
+      "doc_id": 54370344,
+      "level": 2,
+      "id": 54370344,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "消息队列",
+      "uuid": "h883R8JXYMCWB2Tk",
+      "url": "ou7a6yayvuohk3hl",
+      "prev_uuid": "6I1XESImHdf_AE2H",
+      "sibling_uuid": "v4BSzfBoZJD4Pn4K",
+      "child_uuid": "",
+      "parent_uuid": "WT1yUd4pQCfDEZV3",
+      "doc_id": 201381211,
+      "level": 2,
+      "id": 201381211,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "共享内存",
+      "uuid": "v4BSzfBoZJD4Pn4K",
+      "url": "zd5waq2w6ryr18dg",
+      "prev_uuid": "h883R8JXYMCWB2Tk",
+      "sibling_uuid": "WfczZ7M14sob1IXo",
+      "child_uuid": "",
+      "parent_uuid": "WT1yUd4pQCfDEZV3",
+      "doc_id": 201378997,
+      "level": 2,
+      "id": 201378997,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "内存映射(mmap)",
+      "uuid": "WfczZ7M14sob1IXo",
+      "url": "eqegcre5lnrf7kqe",
+      "prev_uuid": "v4BSzfBoZJD4Pn4K",
+      "sibling_uuid": "HDV_gZ_tZKiU_Gak",
+      "child_uuid": "",
+      "parent_uuid": "WT1yUd4pQCfDEZV3",
+      "doc_id": 201377763,
+      "level": 2,
+      "id": 201377763,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "透明进程间通信(TIPC)",
+      "uuid": "HDV_gZ_tZKiU_Gak",
+      "url": "au7ngdrtpzema0fe",
+      "prev_uuid": "WfczZ7M14sob1IXo",
+      "sibling_uuid": "-Zva00TyteNxvmDV",
+      "child_uuid": "",
+      "parent_uuid": "WT1yUd4pQCfDEZV3",
+      "doc_id": 201382595,
+      "level": 2,
+      "id": 201382595,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "远程过程调用(RPC)",
+      "uuid": "-Zva00TyteNxvmDV",
+      "url": "qpb56gu1ukke6ntg",
+      "prev_uuid": "HDV_gZ_tZKiU_Gak",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "WT1yUd4pQCfDEZV3",
+      "doc_id": 201382807,
+      "level": 2,
+      "id": 201382807,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "详解linux多线程——互斥锁、条件变量、读写锁、自旋锁、信号量",
+      "uuid": "DMlnQ_Susc3tKZ9X",
+      "url": "fvhgak",
+      "prev_uuid": "WT1yUd4pQCfDEZV3",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "SV7DikbfoFx_l58E",
+      "doc_id": 54370702,
+      "level": 1,
+      "id": 54370702,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "Linux网络编程",
+      "uuid": "IljGGNZCjJHY_Fsm",
+      "url": "",
+      "prev_uuid": "SV7DikbfoFx_l58E",
+      "sibling_uuid": "YvSuIB9FnUMrMZC1",
+      "child_uuid": "CEXcFOHR8h0ie-Ah",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Muduo库介绍",
+      "uuid": "CEXcFOHR8h0ie-Ah",
+      "url": "heixz9y3myegv1oz",
+      "prev_uuid": "IljGGNZCjJHY_Fsm",
+      "sibling_uuid": "vYgc_-4rwvTVZ7XD",
+      "child_uuid": "O5Gtyg5fvloLse4K",
+      "parent_uuid": "IljGGNZCjJHY_Fsm",
+      "doc_id": 212128267,
+      "level": 1,
+      "id": 212128267,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "与boost asio的区别",
+      "uuid": "O5Gtyg5fvloLse4K",
+      "url": "vz6rnfhh9rkmgeq4",
+      "prev_uuid": "CEXcFOHR8h0ie-Ah",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "CEXcFOHR8h0ie-Ah",
+      "doc_id": 214462438,
+      "level": 2,
+      "id": 214462438,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Linux 网络数据包的接收和发送流程",
+      "uuid": "vYgc_-4rwvTVZ7XD",
+      "url": "ybkygdtps62nw5ek",
+      "prev_uuid": "CEXcFOHR8h0ie-Ah",
+      "sibling_uuid": "R4kiYAFBOQUhC8oG",
+      "child_uuid": "",
+      "parent_uuid": "IljGGNZCjJHY_Fsm",
+      "doc_id": 202194018,
+      "level": 1,
+      "id": 202194018,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "当内核收到了一个网络包，它该怎么办？",
+      "uuid": "R4kiYAFBOQUhC8oG",
+      "url": "gn27wisn785wtr9h",
+      "prev_uuid": "vYgc_-4rwvTVZ7XD",
+      "sibling_uuid": "FJfUmoZIkjW_66uM",
+      "child_uuid": "",
+      "parent_uuid": "IljGGNZCjJHY_Fsm",
+      "doc_id": 202194045,
+      "level": 1,
+      "id": 202194045,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "[计算机网络]Socket网络编程_socket api计算机网络-CSDN博客",
+      "uuid": "FJfUmoZIkjW_66uM",
+      "url": "ckuadv45goyt5u5c",
+      "prev_uuid": "R4kiYAFBOQUhC8oG",
+      "sibling_uuid": "x6Z8gCWWHJS8SzvR",
+      "child_uuid": "",
+      "parent_uuid": "IljGGNZCjJHY_Fsm",
+      "doc_id": 199819896,
+      "level": 1,
+      "id": 199819896,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "网络编程中为啥一定要处理 SIGPIPE 信号？",
+      "uuid": "x6Z8gCWWHJS8SzvR",
+      "url": "af21ctwg4uq89ple",
+      "prev_uuid": "FJfUmoZIkjW_66uM",
+      "sibling_uuid": "Z6BkrbPr8mLz1xXf",
+      "child_uuid": "",
+      "parent_uuid": "IljGGNZCjJHY_Fsm",
+      "doc_id": 202195083,
+      "level": 1,
+      "id": 202195083,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "动图图解！收到RST，就一定会断开TCP连接吗？",
+      "uuid": "Z6BkrbPr8mLz1xXf",
+      "url": "zegmvy6rgp3zbyov",
+      "prev_uuid": "x6Z8gCWWHJS8SzvR",
+      "sibling_uuid": "K6HDMkvTEtzgkAGB",
+      "child_uuid": "",
+      "parent_uuid": "IljGGNZCjJHY_Fsm",
+      "doc_id": 197276350,
+      "level": 1,
+      "id": 197276350,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Sctp 客户端与服务端",
+      "uuid": "K6HDMkvTEtzgkAGB",
+      "url": "lnbrpnkcbpbg3bwg",
+      "prev_uuid": "Z6BkrbPr8mLz1xXf",
+      "sibling_uuid": "VHyXiHo3j0VbvFGg",
+      "child_uuid": "",
+      "parent_uuid": "IljGGNZCjJHY_Fsm",
+      "doc_id": 196485560,
+      "level": 1,
+      "id": 196485560,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "IO多路复用",
+      "uuid": "VHyXiHo3j0VbvFGg",
+      "url": "",
+      "prev_uuid": "K6HDMkvTEtzgkAGB",
+      "sibling_uuid": "",
+      "child_uuid": "HPT-CbjvTiksUlTK",
+      "parent_uuid": "IljGGNZCjJHY_Fsm",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "IO多路转接（复用）之select | 爱编程的大丙",
+      "uuid": "HPT-CbjvTiksUlTK",
+      "url": "gfdp6yvphyhnghnc",
+      "prev_uuid": "VHyXiHo3j0VbvFGg",
+      "sibling_uuid": "Z-Q0G-7LAAQ-0AFE",
+      "child_uuid": "",
+      "parent_uuid": "VHyXiHo3j0VbvFGg",
+      "doc_id": 201375855,
+      "level": 2,
+      "id": 201375855,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "IO多路转接（复用）之poll | 爱编程的大丙",
+      "uuid": "Z-Q0G-7LAAQ-0AFE",
+      "url": "ideo4aloqyoq3ma1",
+      "prev_uuid": "HPT-CbjvTiksUlTK",
+      "sibling_uuid": "t8kHvj-a22VZ9Qiv",
+      "child_uuid": "",
+      "parent_uuid": "VHyXiHo3j0VbvFGg",
+      "doc_id": 201375968,
+      "level": 2,
+      "id": 201375968,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "IO多路转接（复用）之epoll | 爱编程的大丙",
+      "uuid": "t8kHvj-a22VZ9Qiv",
+      "url": "qnu8hom01vyn96qw",
+      "prev_uuid": "Z-Q0G-7LAAQ-0AFE",
+      "sibling_uuid": "ZYc59_IKvPlWNKPn",
+      "child_uuid": "",
+      "parent_uuid": "VHyXiHo3j0VbvFGg",
+      "doc_id": 201376516,
+      "level": 2,
+      "id": 201376516,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "一文搞懂epoll：高效I/O多路复用的核心技术",
+      "uuid": "ZYc59_IKvPlWNKPn",
+      "url": "ffi1ggclwtyk2ho4",
+      "prev_uuid": "t8kHvj-a22VZ9Qiv",
+      "sibling_uuid": "3f1eJMgMHg_bW_Ct",
+      "child_uuid": "",
+      "parent_uuid": "VHyXiHo3j0VbvFGg",
+      "doc_id": 203548865,
+      "level": 2,
+      "id": 203548865,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "高性能网络编程之 Reactor 网络模型",
+      "uuid": "3f1eJMgMHg_bW_Ct",
+      "url": "rn6n413wcy1q5t5k",
+      "prev_uuid": "ZYc59_IKvPlWNKPn",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "VHyXiHo3j0VbvFGg",
+      "doc_id": 203162680,
+      "level": 2,
+      "id": 203162680,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "嵌入式",
+      "uuid": "YvSuIB9FnUMrMZC1",
+      "url": "",
+      "prev_uuid": "IljGGNZCjJHY_Fsm",
+      "sibling_uuid": "y4i_s_ISgQ4OrNmR",
+      "child_uuid": "nZ-nuJfvcpcnA8WU",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "ESP32-S3",
+      "uuid": "nZ-nuJfvcpcnA8WU",
+      "url": "",
+      "prev_uuid": "YvSuIB9FnUMrMZC1",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "YvSuIB9FnUMrMZC1",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "Rust",
+      "uuid": "y4i_s_ISgQ4OrNmR",
+      "url": "",
+      "prev_uuid": "YvSuIB9FnUMrMZC1",
+      "sibling_uuid": "DviPqQEt7s-1MzKs",
+      "child_uuid": "Jd-5J_MLexg4iDCz",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "线程池",
+      "uuid": "Jd-5J_MLexg4iDCz",
+      "url": "rqpumbctp4knus9i",
+      "prev_uuid": "y4i_s_ISgQ4OrNmR",
+      "sibling_uuid": "mY-QABiabThYbiQU",
+      "child_uuid": "",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": 202748807,
+      "level": 1,
+      "id": 202748807,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust Actix Web 入门",
+      "uuid": "mY-QABiabThYbiQU",
+      "url": "vixzq4lrgk9kkgk3",
+      "prev_uuid": "Jd-5J_MLexg4iDCz",
+      "sibling_uuid": "IEObNzd8hkMYNE0i",
+      "child_uuid": "",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": 200103289,
+      "level": 1,
+      "id": 200103289,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "标准的rust后端项目的结构是怎样的呢",
+      "uuid": "IEObNzd8hkMYNE0i",
+      "url": "zg8o57g9zatolwfg",
+      "prev_uuid": "mY-QABiabThYbiQU",
+      "sibling_uuid": "RHR64gDiJxsqorVN",
+      "child_uuid": "",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": 199960650,
+      "level": 1,
+      "id": 199960650,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust标准库与常用库",
+      "uuid": "RHR64gDiJxsqorVN",
+      "url": "tl1qyi2ahx7ie392",
+      "prev_uuid": "IEObNzd8hkMYNE0i",
+      "sibling_uuid": "vEet_Ec17pqnmIYY",
+      "child_uuid": "",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": 199332532,
+      "level": 1,
+      "id": 199332532,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust异步框架tokio开发实践",
+      "uuid": "vEet_Ec17pqnmIYY",
+      "url": "klwk7th76vkw4wfx",
+      "prev_uuid": "RHR64gDiJxsqorVN",
+      "sibling_uuid": "8ox8Y6BhY_3zyald",
+      "child_uuid": "",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": 197277292,
+      "level": 1,
+      "id": 197277292,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust 中的 S3 魔法：s3s 实战指南与优雅代码之旅",
+      "uuid": "8ox8Y6BhY_3zyald",
+      "url": "euu2hngr5v8gli5q",
+      "prev_uuid": "vEet_Ec17pqnmIYY",
+      "sibling_uuid": "v5oH-YrZXYdnrTqu",
+      "child_uuid": "",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": 197277204,
+      "level": 1,
+      "id": 197277204,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Learn to build and deploy a chat app using Rust and React",
+      "uuid": "v5oH-YrZXYdnrTqu",
+      "url": "lp3862vssg85hgoq",
+      "prev_uuid": "8ox8Y6BhY_3zyald",
+      "sibling_uuid": "lWuTV-_GobbXIwTA",
+      "child_uuid": "",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": 198244117,
+      "level": 1,
+      "id": 198244117,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Build a real-time chat app with Rust and React - LogRocket Blog",
+      "uuid": "lWuTV-_GobbXIwTA",
+      "url": "uayzeiez6rla2bzm",
+      "prev_uuid": "v5oH-YrZXYdnrTqu",
+      "sibling_uuid": "P16PGjtm2tvLJeUz",
+      "child_uuid": "",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": 197648968,
+      "level": 1,
+      "id": 197648968,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust 范型和 Rust 宏的实战使用场景",
+      "uuid": "P16PGjtm2tvLJeUz",
+      "url": "eqp47740gi6g5q0c",
+      "prev_uuid": "lWuTV-_GobbXIwTA",
+      "sibling_uuid": "qWsUwDo1-PEPvv1v",
+      "child_uuid": "",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": 197277096,
+      "level": 1,
+      "id": 197277096,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": " 架构大师笔记",
+      "uuid": "qWsUwDo1-PEPvv1v",
+      "url": "",
+      "prev_uuid": "P16PGjtm2tvLJeUz",
+      "sibling_uuid": "-ef-8W3CIdalHoyl",
+      "child_uuid": "zgxUM0Q5tai-p1mp",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust开发笔记 | LinkedList 双向链表",
+      "uuid": "zgxUM0Q5tai-p1mp",
+      "url": "nb7x2k9dogtg43mh",
+      "prev_uuid": "qWsUwDo1-PEPvv1v",
+      "sibling_uuid": "XKbYxVDm4gsUKriT",
+      "child_uuid": "",
+      "parent_uuid": "qWsUwDo1-PEPvv1v",
+      "doc_id": 197278099,
+      "level": 2,
+      "id": 197278099,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust中的线程池",
+      "uuid": "XKbYxVDm4gsUKriT",
+      "url": "sggr96vh8w4vgbgp",
+      "prev_uuid": "zgxUM0Q5tai-p1mp",
+      "sibling_uuid": "0exxKOvOPgnY3-94",
+      "child_uuid": "",
+      "parent_uuid": "qWsUwDo1-PEPvv1v",
+      "doc_id": 197278025,
+      "level": 2,
+      "id": 197278025,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust：从简单函数到高级抽象",
+      "uuid": "0exxKOvOPgnY3-94",
+      "url": "yrg29g1x2b48kgi4",
+      "prev_uuid": "XKbYxVDm4gsUKriT",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "qWsUwDo1-PEPvv1v",
+      "doc_id": 197277555,
+      "level": 2,
+      "id": 197277555,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": " 黑客编程之道",
+      "uuid": "-ef-8W3CIdalHoyl",
+      "url": "",
+      "prev_uuid": "qWsUwDo1-PEPvv1v",
+      "sibling_uuid": "gAMllf5rbSH7cbLS",
+      "child_uuid": "wJMpZzBaYlB05m03",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust并发编程必知必会：RwLock让你的代码性能暴增！读写锁才是并发的终极解决方案！",
+      "uuid": "wJMpZzBaYlB05m03",
+      "url": "qubfdhl13r7sfkus",
+      "prev_uuid": "-ef-8W3CIdalHoyl",
+      "sibling_uuid": "Hh9SAyLmyjhJE04w",
+      "child_uuid": "",
+      "parent_uuid": "-ef-8W3CIdalHoyl",
+      "doc_id": 197276916,
+      "level": 2,
+      "id": 197276916,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "深入理解Rust闭包三大特征",
+      "uuid": "Hh9SAyLmyjhJE04w",
+      "url": "vkdgbw236k49gmts",
+      "prev_uuid": "wJMpZzBaYlB05m03",
+      "sibling_uuid": "76y8AUmanT-dtnkx",
+      "child_uuid": "",
+      "parent_uuid": "-ef-8W3CIdalHoyl",
+      "doc_id": 197275310,
+      "level": 2,
+      "id": 197275310,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust序列化王者Serde",
+      "uuid": "76y8AUmanT-dtnkx",
+      "url": "yztlfaior2i8m2cu",
+      "prev_uuid": "Hh9SAyLmyjhJE04w",
+      "sibling_uuid": "rKPYYi0R0ah9ABLb",
+      "child_uuid": "",
+      "parent_uuid": "-ef-8W3CIdalHoyl",
+      "doc_id": 197274215,
+      "level": 2,
+      "id": 197274215,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Cursor内存IO",
+      "uuid": "rKPYYi0R0ah9ABLb",
+      "url": "kmitpg72s0x4hu8s",
+      "prev_uuid": "76y8AUmanT-dtnkx",
+      "sibling_uuid": "_eC1umScGcU5Pg74",
+      "child_uuid": "",
+      "parent_uuid": "-ef-8W3CIdalHoyl",
+      "doc_id": 196555984,
+      "level": 2,
+      "id": 196555984,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "静态变量lazy_static",
+      "uuid": "_eC1umScGcU5Pg74",
+      "url": "veghru0b7chn7640",
+      "prev_uuid": "rKPYYi0R0ah9ABLb",
+      "sibling_uuid": "RAIeGCNh3FVZlif7",
+      "child_uuid": "",
+      "parent_uuid": "-ef-8W3CIdalHoyl",
+      "doc_id": 197194291,
+      "level": 2,
+      "id": 197194291,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust 构建高性能网络协议",
+      "uuid": "RAIeGCNh3FVZlif7",
+      "url": "yczz3ypfw5tmt39e",
+      "prev_uuid": "_eC1umScGcU5Pg74",
+      "sibling_uuid": "NNsHNTWwtK6e46qf",
+      "child_uuid": "",
+      "parent_uuid": "-ef-8W3CIdalHoyl",
+      "doc_id": 197257365,
+      "level": 2,
+      "id": 197257365,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "libc库系统编程",
+      "uuid": "NNsHNTWwtK6e46qf",
+      "url": "wqbborpg8pdlg7sb",
+      "prev_uuid": "RAIeGCNh3FVZlif7",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "-ef-8W3CIdalHoyl",
+      "doc_id": 196977076,
+      "level": 2,
+      "id": 196977076,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "与C混合编译",
+      "uuid": "gAMllf5rbSH7cbLS",
+      "url": "",
+      "prev_uuid": "-ef-8W3CIdalHoyl",
+      "sibling_uuid": "",
+      "child_uuid": "aiGsrA_mgwkWu-kb",
+      "parent_uuid": "y4i_s_ISgQ4OrNmR",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust入门：Rust如何调用C静态库的函数_rust调用c函数-CSDN博客",
+      "uuid": "aiGsrA_mgwkWu-kb",
+      "url": "vnip5oa98aqch63x",
+      "prev_uuid": "gAMllf5rbSH7cbLS",
+      "sibling_uuid": "Z7_7yAkHQ98g3LQu",
+      "child_uuid": "",
+      "parent_uuid": "gAMllf5rbSH7cbLS",
+      "doc_id": 200390326,
+      "level": 2,
+      "id": 200390326,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust : 与C交互动态库和静态库的尝试",
+      "uuid": "Z7_7yAkHQ98g3LQu",
+      "url": "afqs5a87kv36ezq7",
+      "prev_uuid": "aiGsrA_mgwkWu-kb",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "gAMllf5rbSH7cbLS",
+      "doc_id": 200388870,
+      "level": 2,
+      "id": 200388870,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "其它",
+      "uuid": "DviPqQEt7s-1MzKs",
+      "url": "",
+      "prev_uuid": "y4i_s_ISgQ4OrNmR",
+      "sibling_uuid": "",
+      "child_uuid": "5zSiJ5JuZLvYNT-j",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "JWT",
+      "uuid": "5zSiJ5JuZLvYNT-j",
+      "url": "vp6zp79f7mqhtbz5",
+      "prev_uuid": "DviPqQEt7s-1MzKs",
+      "sibling_uuid": "5x0f3xdlw3YrKXA9",
+      "child_uuid": "",
+      "parent_uuid": "DviPqQEt7s-1MzKs",
+      "doc_id": 196480352,
+      "level": 1,
+      "id": 196480352,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "万字长文，一篇吃透WebSocket",
+      "uuid": "5x0f3xdlw3YrKXA9",
+      "url": "tah8bycwe91ifcig",
+      "prev_uuid": "5zSiJ5JuZLvYNT-j",
+      "sibling_uuid": "UjjUNfGBQ_aO_F6e",
+      "child_uuid": "",
+      "parent_uuid": "DviPqQEt7s-1MzKs",
+      "doc_id": 194810518,
+      "level": 1,
+      "id": 194810518,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "RTSP、RTP和RTCP的区别与联系",
+      "uuid": "UjjUNfGBQ_aO_F6e",
+      "url": "ll25u4xbsa97uikk",
+      "prev_uuid": "5x0f3xdlw3YrKXA9",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "DviPqQEt7s-1MzKs",
+      "doc_id": 212123178,
+      "level": 1,
+      "id": 212123178,
+      "open_window": 1,
+      "visible": 1
+    }
+  ]
+}
