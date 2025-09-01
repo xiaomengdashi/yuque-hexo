@@ -1,6 +1,6 @@
 module.exports = {
   write: {
-    platform: 'yuque',
+    platform: 'yuque-pwd',
     // Token 模式（需要语雀超级会员）
     yuque: {
       token: process.env.YUQUE_TOKEN,
@@ -23,7 +23,7 @@ module.exports = {
       outputDir: './source/_posts',
       filename: 'title',
       format: 'markdown',
-      catalog: false,
+      catalog: true,
       frontMatter: {
         enable: true,
         include: ['categories', 'tags', 'title', 'date', 'updated'],
